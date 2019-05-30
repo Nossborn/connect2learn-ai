@@ -1,0 +1,378 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>simplewiki</dbname>
+    <base>https://simple.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.34.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Netherlands</title>
+    <ns>0</ns>
+    <id>3463</id>
+    <revision>
+      <id>6531801</id>
+      <parentid>6523565</parentid>
+      <timestamp>2019-05-08T20:09:12Z</timestamp>
+      <contributor>
+        <username>SpaceGuy32</username>
+        <id>568123</id>
+      </contributor>
+      <minor/>
+      <comment>Removed unknown parameter</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30752">{{Infobox country
+|conventional_long_name = Netherlands &lt;!--Do not change from "Netherlands"; the Netherlands is only part of the Kingdom of the Netherlands (which has its own article).--&gt;
+|native_name = {{native name|nl|Nederland}}&lt;!--Do not change from "Nederland"; the Netherlands is only part of the Kingdom of the Netherlands (which has its own article).--&gt;
+|image_flag = Flag of the Netherlands.svg
+|image_coat = State coat of arms of the Netherlands.svg
+|common_name = the Netherlands
+|national_motto = {{native phrase|fr|"[[Je maintiendrai]]"}}{{efn|The official motto is in French. The literal translation into English is "I will maintain"; a better translation, however, is "I will hold firm" or "I will uphold" (namely, the integrity and independence of the territory).}}&lt;br /&gt;&lt;!--
+--&gt;{{native phrase|nl|"Ik zal handhaven"}}&lt;br /&gt;&lt;!--
+--&gt;{{small|"I will uphold"}}
+{{collapsible list
+|title = Other historic mottos:
+|titlestyle = background:transparent;text-align:center;line-height:1.15em;
+|liststyle = text-align:center;white-space:nowrap;
+|{{native phrase|la|"[[concordia res parvae crescunt]]"}} &lt;br /&gt;&lt;!--
+--&gt;{{native phrase|nl|"Eendracht maakt macht"}}&lt;br /&gt;{{small|"Unity makes strength"}}
+|{{native phrase|la|"Si Deus nobiscum quis contra nos"}}{{efn|In 1816 the motto was abbreviated to {{lang|nl|"[[God zij met ons]]"}} (used on the edges of coins).}}&lt;br /&gt;{{small|"If God be with us who can be against us"}}
+}}
+|national_anthem = {{native name|nl|"[[Wilhelmus]]"|nolink=yes}}&lt;br /&gt;{{small|"'William"}}&lt;br /&gt;&lt;center&gt;[[File:United States Navy Band - Het Wilhelmus.ogg|noicon|center]]&lt;/center&gt;
+|image_map = EU-Netherlands.svg
+|map_width = 250px
+|map_caption = {{map caption |countryprefix=the |country=European Netherlands&lt;wbr/&gt;&lt;!--NOTE: tag prevents circular link being generated.--&gt; |location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color=green}}
+|image_map2 = BES islands location map.svg
+|map2_width = 250px
+|map_caption2 = {{map caption |countryprefix=the |country= [[Caribbean Netherlands|Dutch special municipalities]] |location_color=green}}
+|capital = [[Amsterdam]]&lt;!--Do not change this without broad consensus--&gt;{{efn|name=central_cities|While Amsterdam is the constitutional capital, The&amp;nbsp;Hague is the seat of the government.}}
+|largest_city = capital
+|coordinates = {{Coord|52|22|N|4|53|E|type:city}}
+|admin_center = [[The Hague]]{{efn|name=central_cities}}
+|admin_center_type = Government's&amp;nbsp;seat
+|official_languages = [[Dutch language|Dutch]]&lt;ref&gt;{{cite web |url=https://www.rijksoverheid.nl/onderwerpen/erkende-talen/vraag-en-antwoord/erkende-talen-nederland |title=Welke erkende talen heeft Nederland? [[English]] |publisher=Rijksoverheid |accessdate=27 December 2017 |language=Dutch}}&lt;/ref&gt;
+|languages = {{ubl|[[West Frisian language|West Frisian]]|[[Papiamento]]|[[English in the Netherlands|English]]{{efn|name=languages|West Frisian has official status in [[Friesland]].&lt;ref&gt;{{cite web |url=http://wetten.overheid.nl/BWBR0034047/2014-01-01 |title=Wet gebruik Friese taal |publisher=wetten.nl |accessdate=27 December 2017 |language=Dutch}}&lt;/ref&gt; Dutch Low Saxon and Limburgish are recognised as [[European Charter for Regional or Minority Languages|regional languages]] by the European Charter for Regional or Minority Languages. Papiamento is recognised by the Dutch government in relation to [[Bonaire]], and English in relation to [[Sint Eustatius]] and [[Saba]].&lt;ref name=languages&gt;{{cite web|url=http://wetten.overheid.nl/BWBR0028063/2017-01-01 |title=Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba |language=Dutch |publisher=wetten.nl |accessdate=27 December 2017}}&lt;/ref&gt;}}}}
+|languages_type = Official regional&amp;nbsp;languages
+|languages2 = {{ubl|[[Limburgish language|Limburgish]]|[[Dutch Low Saxon]]{{efn|name=languages}}}}
+|languages2_type = Recognised regional&amp;nbsp;languages
+|ethnic_groups =
+{{unbulleted list
+| 77.39% [[Dutch people|Dutch]]
+| 9.88% [[Europeans]]
+| 2.34% [[Turks in the Netherlands|Turks]]
+| 2.29% [[Dutch-Moroccans|Moroccans]]
+| 2.13% [[Indo people|Indo]]
+| 2.05% [[Surinamese people in the Netherlands|Surinamese]]
+| 0.90% [[Caribbeans]]
+| 0.23% [[Demographics of the Netherlands|Americans]]
+}}
+|ethnic_groups_year = 2017&lt;ref&gt;[http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&amp;PA=37325&amp;D1=0&amp;D2=0&amp;D3=0&amp;D4=0&amp;D5=a&amp;D6=l&amp;VW=T Official CBS website containing all Dutch demographic statistics]. Cbs.nl. Retrieved on 4 July 2017.&lt;/ref&gt;
+|religion =
+{{unbulleted list
+| 50.1% [[Irreligion]]
+| 43.8% [[Christianity]]
+| 4.9% [[Islam]]
+| {{col-float|width=auto}}1.1%&amp;nbsp;{{col-float-break}}{{ubl|[[Hinduism]],|[[Buddhism]],|[[Judaism]]}}{{col-float-end}}
+}}
+|religion_year = 2015&lt;ref name="cbs2016"&gt;{{Cite web|url=https://www.cbs.nl/nl-nl/nieuws/2016/51/helft-nederlanders-is-kerkelijk-of-religieus|title=Helft Nederlanders is kerkelijk of religieus|last=CBS|website=www.cbs.nl|language=nl-NL|access-date=17 October 2017}}&lt;/ref&gt;
+|demonym = Dutch
+|membership = {{flag|Kingdom of the Netherlands}}
+|membership_type = Sovereign state
+|government_type = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+|leader_title1 = [[Monarchy of the Netherlands|Monarch]]
+|leader_name1 = [[Willem-Alexander of the Netherlands|Willem-Alexander]]
+|leader_title2 = [[Prime Minister of the Netherlands|Prime Minister]]
+|leader_name2 = [[Mark Rutte]] ([[People's Party for Freedom and Democracy|VVD]])
+|leader_title3 = [[Deputy Prime Minister of the Netherlands|Deputy Prime Ministers]]
+|leader_name3 = [[Hugo de Jonge]] ([[Christian Democratic Appeal|CDA]])&lt;br /&gt;[[Kajsa Ollongren]] ([[Democrats 66|D66]])&lt;br /&gt;[[Carola Schouten]] ([[Christian Union (Netherlands)|CU]])
+|leader_title4 = [[Council of State (Netherlands)|Vice President of the Council of State]]
+|leader_name4 = [[Piet Hein Donner]]
+|legislature = [[States General of the Netherlands|States General]]
+|upper_house = [[First Chamber (Netherlands)|Senate]]
+|lower_house = [[Second Chamber (Netherlands)|House of Representatives]]
+|established_event1 = [[Act of Abjuration|Proclaimed]]
+|sovereignty_type = Independence {{nobold|from [[Spanish Empire]]}}
+|established_event2 = [[Peace of Münster|Recognised]]
+|established_date1 = 26 July 1581
+|established_event3 = Kingdom established
+|established_date2 = 30 January 1648
+|established_event4 = [[Charter for the Kingdom of the Netherlands|Constituent country]]
+|established_event5= Incorporation of the [[Caribbean Netherlands]]
+|established_date3 = 16 March 1815
+|established_date4 = 15 December 1954
+|established_date5 = 10 October 2010
+|area_km2 = 41,543
+|area_rank = 131st &lt;!-- Area rank should match [[List of countries and dependencies by area]] --&gt;
+|area_sq_mi = 16,033 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|percent_water = 18.41
+|population_estimate = 17,170,000 {{increase}}&lt;ref name="pop-cbs"&gt;{{cite web |url=https://www.cbs.nl/en-gb/visualisaties/population-counter |title=Population counter |work=Centraal Bureau voor de Statistiek |date=2017 |accessdate=14 November 2017}}&lt;/ref&gt;
+|population_census =
+|population_estimate_year = 2017
+|population_estimate_rank = 66th
+|population_census_year = 2011
+|population_density_km2 = {{#expr:{{Data Netherlands|poptoday}} / 41526 round 1}}
+|population_density_rank= 30th
+|population_density_sq_mi = {{#expr:{{Data Netherlands|poptoday}} / 16033 round 1}} &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|GDP_PPP = $907.619 billion&lt;ref name=imf2&gt;{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=92&amp;pr.y=17&amp;sy=2017&amp;ey=2021&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=138&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&amp;grp=0&amp;a=|title=Netherlands |date=April 2016 |publisher=International Monetary Fund }}&lt;/ref&gt;
+|GDP_PPP_year = 2017
+|GDP_PPP_rank = 28th
+|GDP_PPP_per_capita = $53,139
+|GDP_PPP_per_capita_rank = 13th
+|GDP_nominal = $762.694 billion&lt;ref name=imf2/&gt;
+|GDP_nominal_year = 2017
+|GDP_nominal_rank = 17th
+|GDP_nominal_per_capita = $44,654
+|GDP_nominal_per_capita_rank = 13th
+|Gini = 28.2 &lt;!--number only--&gt;
+|Gini_year = 2015
+|Gini_change = &lt;!--increase/decrease/steady--&gt;increase
+|Gini_ref = &lt;ref name=eurogini&gt;{{cite web|title=Gini coefficient of equivalised disposable income (source: SILC)|url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12|publisher=Eurostat Data Explorer|accessdate=4 December 2015}}&lt;/ref&gt;
+|Gini_rank = 15th
+|HDI = 0.924 &lt;!--number only--&gt;
+|HDI_year = 2015&lt;!-- Please use the year to which the data refers, not the publication year--&gt;
+|HDI_change = increase &lt;!--increase/decrease/steady--&gt;
+|HDI_ref = &lt;ref name="HDI"&gt;{{cite web |url=http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf |title=2016 Human Development Report  |date=2016 |accessdate=21 March 2017 |publisher=United Nations Development Programme }}&lt;/ref&gt;
+|HDI_rank = 7th
+|currency = {{unbulleted list |[[Euro]] ([[ISO 4217|EUR]]) |{{nowrap|[[United States dollar|US dollar]] (USD) &lt;small&gt;([[Caribbean Netherlands|Caribbean&lt;br /&gt;Netherlands]] only)&lt;/small&gt;{{efn|The euro is used in the European part of the Netherlands and replaced the [[Dutch guilder]] in 2002. The US dollar is used in the [[Caribbean Netherlands]] and replaced the [[Netherlands Antillean guilder]] in 2011.&lt;ref&gt;{{cite web |url=http://wetten.overheid.nl/BWBR0028551 |title=Wet geldstelsel BES |publisher=Dutch government |date=30 September 2010 |accessdate=11 January 2014}}&lt;/ref&gt;}}}}}}
+|time_zone = [[Central European Time|CET]] ([[UTC]]+1){{efn|CET and CEST are used in the European Netherlands, and AST is used in the Caribbean Netherlands.}}&lt;br /&gt;[[Atlantic Standard Time|AST]]
+|utc_offset =-4
+|utc_offset_DST =-4
+|time_zone_DST = [[Central European Summer Time|CEST]] ([[UTC]]+2)&lt;br /&gt;[[Atlantic Standard Time|AST]]
+|date_format = dd-mm-yyyy
+|drives_on = right
+|calling_code = {{unbulleted list |[[Telephone numbers in the Netherlands|+31]] |[[Telephone numbers in Curaçao and the Caribbean Netherlands|+599]]{{efn|599 was the country code designated for the now dissolved [[Netherlands Antilles]]. The Caribbean Netherlands still use 599–7 (Bonaire), 599–3 (Sint Eustatius) and 599–4 (Saba).}}}}
+|iso3166code = NL
+|cctld = {{ubl|[[.nl]]|[[.bq]]{{efn|.nl is the common internet top level domain name for the Netherlands. The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states. .bq is designated, but not in use, for the [[Caribbean Netherlands]].}}}}
+}}
+[[File:Netherlands-CIA WFB Map-10-10-10.png|thumb|350px|Map of the Netherlands]]
+The '''Netherlands''' is a [[country]] that is part of (a [[constituent country]]) of the [[Kingdom of the Netherlands]]. Most of it is in [[Western Europe]], but there are also some parts in the [[Caribbean]]. More than 17 million people live there. To the north and west of the [[Europe]]an part of the Netherlands is the [[North Sea]], and to the east is [[Germany]] and to the south is [[Belgium]]. The Netherlands is one of the countries that started the [[European Union]]. People who live in the Netherlands are called "[[Dutch (people)|Dutch]]". The language of the Netherlands is also called [[Dutch language|Dutch]]. The official capital of the Netherlands is Amsterdam. However, the government is located in The Hague.
+
+== Name ==
+"The Netherlands" means "the low lands". The land only rises, on average, 1&amp;nbsp;meter above the sea level. One third of the land is below sea level. The Netherlands is also - incorrectly - referred to as [[Holland]]. Holland was a very rich area (two provinces) in the western part of the Netherlands, thus causing people to be mistaken. Some people who do not live in the western part of the Netherlands do not like it when people call the country Holland. The name "Holland" originates from the old Dutch words "Holt land" which means "wood lands".
+
+== History ==
+At the end of the [[Middle Ages]] the [[duke]]s of [[Burgundy]], a country that is now part of [[France]], united seventeen areas. Those areas were called the Netherlands. When the daughter of a duke married [[Maximilian I, Holy Roman Emperor]] in 1477, the Netherlands became part of [[Spain]]. In the 16th century many Dutch people became [[Protestant]]. The king of Spain did not like it, he wanted all Dutch to be [[Roman Catholic]]. Of course the Dutch people did not like this, and after violent excesses by the Spanish they started a war against Spain in 1568, also for reasons of taxation. The war lasted until 1648, therefore it is called the [[Eighty Years' War]]. An important leader of the Dutch in this war was Willem van Oranje (Willem of orange) also called [[William the Silent]].
+
+In 1648 the Netherlands and Spain signed [[Peace of Münster|peace]]. The Dutch people were allowed to keep all the areas they conquered. The part of the Netherlands that was not conquered by the Dutch stayed part of Spain. Later this part became the country [[Belgium]].
+
+When the Netherlands became independent, it was a very special country. That time almost all countries in [[Europe]] were ruled by a king, but the Netherlands was a [[republic]]. The Netherlands was made up of seven [[province]]s, that were ruled by the big cities. The cities were ruled by the municipality which consisted of rich civilians. Together those provinces were ruled by a [[stadtholder]], a very powerful man, but compared to the kings of other European countries he had much less power.
+
+In the [[17th century]] the Netherlands was the richest and one of the most powerful countries in the world. Therefore, the Dutch call the 17th century the [[Golden Age]]. Their [[Dutch Empire]] had possessions around the world. The most important possession were the [[East Indies]], a country that is now called [[Indonesia]]. The Dutch also founded [[New Netherland]], which is now called [[New York]]. The Netherlands often fought wars against other European countries, especially the [[Anglo-Dutch Wars]] against [[England]]. [[Michiel de Ruyter]], a Dutch [[admiral]], became a Dutch hero when he defeated the English navy close to London.
+
+In the 18th century the Netherlands became poorer. Many people blamed this on the government leaders, the stadtholders. Many thought they had too much power and wanted them to get away. In 1789 the French people [[French Revolution|deposed]] (got rid of) their king. French armies attacked other countries to depose their leaders too. In 1795 they attacked the Netherlands. Stadtholder [[Stadtholder William V of the Netherlands|William V]] had to flee to England. The Netherlands were renamed to [[Batavian Republic]] and became a [[democracy]]. But the French were not content (satisfied) with the Dutch ruler, so in 1806 the French [[emperor]] [[Napoleon]] made his brother [[Louis Bonaparte]] king of the Netherlands. Louis became popular in the Netherlands, but the emperor was again not content with him, so in 1810 the Netherlands became a part of France.
+
+In 1815 Napoleon was defeated, and the Netherlands became independent again. The rulers of European countries thought it was a good idea to make the Netherlands stronger, to make them able to resist another French invasion. Therefore, [[Belgium]] and [[Luxembourg]] were added to the Netherlands. [[King William I of the Netherlands|William I]], the son of stadtholder William V, became king. Some Belgians disliked their Dutch king. In 1830 they revolted. William sent an army. He was much more powerful than the Belgians but after ten days the French sent an army to support them. In 1831 the Belgians chose their own king and Belgium became an independent country.
+
+[[Liberalism|Some people]] again thought the Dutch king had too much power. They wanted to give him less power and vote for the government themselves. In 1848 there were violent revolts against the kings of many European countries. The Dutch king was afraid the same would happen in the Netherlands. Therefore, he allowed [[Johan Rudolf Thorbecke]] to write a [[constitution]]. From then on people were allowed to vote. At first only rich men were allowed to vote. From 1919 on [[universal suffrage|all adults were allowed to vote]].
+
+In [[World War I]], the Netherlands did not fight and were not invaded. The Dutch wanted to stay [[Neutrality (international relations)|neutral]] in [[World War II]] as well, but in 1940 the country was invaded and occupied by [[Germany]]. Like in other countries they had occupied, the German authorities started to kill [[Jews]]. [[Anne Frank]] was a Jewish girl who lived in the Netherlands. Her family hid from the Nazis and she wrote a [[diary]]. She died in a Nazi [[concentration camp]] and her diary became famous.
+
+In 1944 the [[United States|American]], [[Canada|Canadian]], [[Poland|Polish]] and British armies liberated the south of the Netherlands from Nazi Occupation. They wanted to cross the [[Rhine]] river in [[Operation Market Garden]] to liberate the rest of the country, but they were defeated. It took until May 1945 before the entire country was liberated. During the five years of Nazi occupation, 250,000 people had died in the Netherlands.
+
+Shortly after the war, [[Indonesia]] declared its independence. The Dutch sent soldiers to fight in Indonesia. After other countries, including the [[United States]], told the Dutch to leave Indonesia, they finally did so in 1949.
+
+After the war the Netherlands became one of the richest countries in the world. In 2004 the [[United Nations]] said that the Netherlands was the 5th best country to live in.
+
+== Politics ==
+The Netherlands is a [[constitutional monarchy]]. That means the country has a king, but the real power is in the hands of a [[parliament]], chosen by the Dutch people. All Dutch people at least 18 years old or older are allowed to vote. The Dutch parliament consists of two chambers: the [[Second Chamber (Netherlands)|Second Chamber]] (Dutch: ''Tweede Kamer'', this is the House of Representatives, elected every four years), and the [[First Chamber (Netherlands)|First Chamber]] (Dutch: ''Eerste Kamer'', this is the Senate, elected by provincial politicians every four years). After the Second Chamber elections, parties that have had a majority of the votes create a [[cabinet]]. The cabinet consists of a [[prime minister]] and several other ministers and deputy ministers. Current government is the [[Third Rutte cabinet]], consisting of [[VVD]], [[CDA]], [[D66]] and [[CU]] politicians. Prime Minister is [[Mark Rutte]] (VVD).
+
+The latest general elections were held on March 15, 2017. The coalition party PvdA (Labour) lost dramatically, and the other coalition party VVD (Conservative-liberals) also lost but remained the largest party in parliament. Most opposition parties won seats, especially the green party [[GreenLeft]] won considerably. Populist party [[PVV]] of [[Geert Wilders]] won also seats but not the amount expected and became the second largest party.
+
+The Netherlands is known for [[Toleration|tolerance]] in politics. The Netherlands is the only country where [[soft drugs]] are not entirely considered illegal. Furthermore, the Netherlands is one of the few countries that allow [[same-sex marriage]]s, [[euthanasia]] and [[prostitution]] to a certain extent.
+
+More information: ''[[Politics of the Netherlands]]''.
+
+== Subdivisions ==
+The Netherlands is subdivided in provinces and municipalities.
+
+=== Provinces ===
+{{main|Provinces of the Netherlands}}
+[[File:Map provinces Netherlands-en.svg|thumb|350px|Provinces of the Netherlands]]
+In the Netherlands there are 12 provinces:
+{| style="background:none;" cellspacing="2px"
+|-
+|
+{| class="sortable wikitable" style="text-align:left;"
+|-
+! style="width:40px;" class="unsortable"| [[Flag]]
+! style="width:140px;"| [[Province]]
+! style="width:80px;"| [[Capital (political)|Capital]]
+! style="width:80px;"| Largest city
+! style="width:60px;"| [[Area]] (km&lt;sup&gt;2&lt;/sup&gt;)
+!&lt;ref name="ProvArea"&gt;{{cite web|url=http://statline.cbs.nl/StatWeb/publication/?VW=T&amp;DM=SLNL&amp;PA=70072ned&amp;D1=224&amp;D2=5-16&amp;D3=l&amp;HD=081103-1603&amp;HDR=T&amp;STB=G1,G2|language=Dutch|publisher=[[Statistics Netherlands]]|year=2007|accessdate=2007-10-13|title=Regionale Kerncijfers Nederland}}&lt;/ref&gt; width="70px"| [[Population]]&lt;ref&gt;{{cite web|url=http://statline.cbs.nl/StatWeb/publication/?VW=T&amp;DM=SLNL&amp;PA=03759ned&amp;D1=0&amp;D2=802-813&amp;D3=0&amp;D4=l&amp;HD=081103-1603|language=Dutch|publisher=[[Statistics Netherlands]]|year=2007|accessdate=2007-10-13|title=Bevolking per regio naar leeftijd, geslacht en burgerlijke staat}}&lt;/ref&gt;
+! style="width:80px;"|Density&lt;br /&gt;(per km&lt;sup&gt;2&lt;/sup&gt;)
+|-
+| [[File:Flag Drenthe.svg|27px]] || [[Drenthe]] || [[Assen]] ||&lt;!-- Please DO NOT change the largest city of Drenthe to Emmen. What is intended here is the city proper; not the municipality. Assen city proper is larger than Emmen city proper although Emmen municipality is larger. --&gt; [[Assen]] || style="text-align:right"|2,641|| style="text-align:right"|486,197|| style="text-align:right"|184
+|-
+| [[File:Flevolandflag.svg|27px]] || [[Flevoland]] || [[Lelystad]] || [[Almere]] || style="text-align:right"|1,417|| style="text-align:right"|374,424|| style="text-align:right"|264
+|-
+| [[File:Frisian flag.svg|27px]] || [[Friesland]] || [[Leeuwarden]] || [[Leeuwarden]] || style="text-align:right"|3,341|| style="text-align:right"|642,209|| style="text-align:right"|192
+|-
+| [[File:Flag of Gelderland.svg|27px]] || [[Gelderland]] || [[Arnhem]] || [[Nijmegen]] || style="text-align:right"|4,971|| style="text-align:right"|1,979,059|| style="text-align:right"|398
+|-
+| [[File:Flag Groningen.svg|27px]] || [[Groningen (province)|Groningen]] || [[Groningen (city)|Groningen]] || [[Groningen (city)|Groningen]] || style="text-align:right"|2,333|| style="text-align:right"|573,614|| style="text-align:right"|246
+|-
+| [[File:NL-LimburgVlag.svg|27px]] || [[Limburg (Netherlands)|Limburg]] || [[Maastricht]] || [[Maastricht]] || style="text-align:right"|2,150|| style="text-align:right"|1,127,805|| style="text-align:right"|525
+|-
+| [[File:North Brabant-Flag.svg|27px]] || [[North Brabant]]&lt;br/ &gt;''(Noord-Brabant)'' || [['s-Hertogenbosch|Den Bosch]]&lt;!-- spelled this way for table-aesthetic reasons--&gt; || [[Eindhoven]] || style="text-align:right"|4,916|| style="text-align:right"|2,419,042|| style="text-align:right"|492
+|-
+| [[File:Flag North-Holland, Netherlands.svg|27px]] || [[North Holland]]&lt;br/ &gt;''(Noord-Holland)'' || [[Haarlem]] || [[Amsterdam]] || style="text-align:right"|2,671|| style="text-align:right"|2,613,070|| style="text-align:right"|978
+|-
+| [[File:Flag Overijssel.svg|27px]] || [[Overijssel]] || [[Zwolle, Overijssel|Zwolle]] || [[Enschede]] || style="text-align:right"|3,325|| style="text-align:right"|1,116,374|| style="text-align:right"|336
+|-
+| [[File:Utrecht (province)-Flag.svg|27px]] || [[Utrecht (province)|Utrecht]] || [[Utrecht (city)|Utrecht]] || [[Utrecht (city)|Utrecht]] || style="text-align:right"|1,385|| style="text-align:right"|1,190,604|| style="text-align:right"|860
+|-
+| [[File:Flag of Zeeland.svg|27px]] || [[Zeeland|Zealand]]&lt;br/ &gt;''(Zeeland)'' || [[Middelburg, Zeeland|Middelburg]] || [[Middelburg, Zeeland|Middelburg]] || style="text-align:right"|1,787|| style="text-align:right"|380,497|| style="text-align:right"|213
+|-
+| [[File:Flag Zuid-Holland.svg|27px]] || [[South Holland]]&lt;br/ &gt;''(Zuid Holland)'' || [[The Hague]]&lt;br /&gt;''(Den Haag)'' || [[Rotterdam]] || style="text-align:right"|2,814|| style="text-align:right"|3,455,097|| style="text-align:right"|1228
+|}
+|}
+
+These provinces are all located in the part of the Netherlands that is in Europe. The country also includes three special [[municipality|municipalities]] in the Caribbean: [[Bonaire]], [[Saba]] and [[Sint Eustatius]]. They are not part of any province, but together are known as the [[Caribbean Netherlands]]. The Netherlands (both the European part and the Caribbean Netherlands), together with [[Aruba]], [[Curaçao]] and [[Sint Maarten]], also in the Caribbean, form a [[sovereign state]] called the [[Kingdom of the Netherlands]].
+
+When the Kingdom was formed in 1954, the territories in the Caribbean became part of the [[Netherlands Antilles]]. At that time it also included [[Suriname]] in [[South America]], which became an [[independence|independent]] country in 1975. Aruba left the Antilles in 1986, and Curaçao and Sint Maarten did the same in 2010. The rest of the islands then became the Caribbean Netherlands which is part of the Netherlands proper.
+
+=== Municipalities ===
+{{Main|List of municipalities of the Netherlands}}
+
+The Netherlands has 380 municipalities (2018) and also three special municipalities in the so-called [[Caribbean Netherlands]].
+
+Almost every year the amount of municipalities decrease.
+
+=== Cities ===
+Cities aren't actually a subdivision of the Netherlands. Cities are also municipalities or they make part of municipalities.
+
+This is a list of the cities with over 100,000 people.
+[[File:Amsterdam airphoto.jpg|thumb|[[Amsterdam]]]]
+[[File:RotterdamMaasNederland.jpg|thumb|[[Rotterdam]]]]
+[[File:Skyline Den Haag.JPG|thumb|[[The Hague]]]]
+[[File:Domuitzicht8.jpg|thumb|[[Utrecht (city)|Utrecht]]]]
+[[File:Hoogbouw Eindhoven.jpg|thumb|[[Eindhoven]]]]
+{| class="wikitable"
+|-
+!Rank
+!City
+!Population
+!Province
+!Notes
+|-
+|1||[[Amsterdam]]||780,000||{{flag|North Holland}}||&lt;small&gt;''excl. [[Driemond]] and [[Landelijk Noord]]''&lt;/small&gt;
+|-
+|2||[[Rotterdam]]||611,000||{{flag|South Holland}}||
+|-
+|3||[[The Hague]]||500,000||{{flag|South Holland}}||&lt;small&gt;''[[Dutch language|Dutch]] name: Den Haag''&lt;/small&gt;
+|-
+|4||[[Utrecht (city)|Utrecht]]||312,634 ||{{flag|Utrecht}}
+|-
+|5||[[Eindhoven]]||213,809||{{flag|North Brabant}}
+|-
+|6||[[Tilburg]]||203,492||{{flag|North Brabant}}
+|-
+|7||[[Almere]]||193,303||{{flag|Flevoland}}
+|-
+|8||[[Groningen (city)|Groningen]]||187,298||{{flag|Groningen}}||&lt;small&gt;''excl. Engelbert, Hoogkerk, Middelbert and Noorderhoogebrug''&lt;/small&gt;
+|-
+|9||[[Breda]]||173,299||{{flag|North Brabant}}
+|-
+|10||[[Nijmegen]]||164,165||{{flag|Gelderland}}||&lt;small&gt;''excl. Lent and Oosterhout''&lt;/small&gt;
+|-
+|11||[[Apeldoorn]]||155,726||{{flag|Gelderland}}||&lt;small&gt;''excl. Beekbergen, Hoenderloo, Hoog Soeren, Klarenbeek, Lieren, Loenen, Uddel and Ugchelen''&lt;/small&gt;
+|-
+|12||[[Enschede]]||154,017||{{flag|Overijssel}}||
+|-
+|13||[[Haarlem]]||151,853||{{flag|North Holland}}||&lt;small&gt;''excl.Bloemendaal, Hillegom, Heemstede, Velsen, Overveen''&lt;/small&gt;
+|-
+|14||[[Arnhem]]||147,018||{{flag|Gelderland}}||&lt;small&gt;''excl. Schaarsbergen''&lt;/small&gt;
+|-
+|15||[[Amersfoort]]||126,750||{{flag|Utrecht}}||&lt;small&gt;''excl. Hoogland and Hooglanderveen''&lt;/small&gt;
+|-
+|16||[[Dordrecht]]||118,540||{{flag|South Holland}}
+|-
+|17||[[Zoetermeer]]||118,020||{{flag|South Holland}}
+|-
+|18||[[Zwolle, Overijssel|Zwolle]]||118,000||{{flag|Overijssel}}||&lt;small&gt;''excl. Brinkhoek, Haerst, Herfte, Langenholte, Wijthmen and Windesheim''&lt;/small&gt;
+|-
+|19||[[Leiden]]||117,480||{{flag|South Holland}}
+|-
+|20||[[Maastricht]]||116,200||{{flagcountry|Limburg (Netherlands)}}||&lt;small&gt;''excl. Borgharen and Itteren''&lt;/small&gt;
+|-
+|21||[[Ede]]||107,476||{{flag|Gelderland}}||&lt;small&gt;''CBS (1 January, 2007)''&lt;/small&gt;
+|-
+|22||[['s-Hertogenbosch]]||102,220||{{flag|North Brabant}}||&lt;small&gt;''excl. Bokhoven, Empel, Engelen, Kruisstraat, Maliskamp and Rosmalen''&lt;/small&gt;
+|-
+|23||[[Venlo]]||100,271||{{flagcountry|Limburg (Netherlands)}}
+|}
+
+== Geography ==
+In fact a large part of the Netherlands was created by the sand that came from the many [[river]]s flowing through it. Notable Dutch rivers are the [[Rhine]], the [[Maas]], the [[IJssel]] and the [[Scelt]]. A large part of the Netherlands is below [[sea level]]. This is because the Dutch have made many lakes and parts of the sea dry, creating polders. Therefore, there is a [[saying]] "God created the earth, but the Dutch created the Netherlands." This makes the Netherlands very flat. In the very south-east of the Netherlands, in [[Limburg (Netherlands)|Limburg]], there are some hills. Therefore, this region is a tourist-attraction for many Dutch people. The highest point in the European portion of the Netherlands, the [[Vaalserberg]], is 323&amp;nbsp;metres above sea level. The highest point in both the Netherlands proper and the Kingdom of the Netherlands is [[Mount Scenery]], on the Caribbean island of [[Saba]], at 887&amp;nbsp;metres.
+
+The Netherlands is a small flat country; about 300&amp;nbsp;kilometers from north to south, and about 170&amp;nbsp;kilometers from east to west. It has an [[oceanic climate]] (''Cfb'' in the [[Köppen climate classification]]).
+
+== People ==
+{{main|Dutch people}}
+[[File:Keetmolen in Ede.jpg|thumb|upright|[[Windmill]] in Netherlands]]
+The Netherlands is a small country, but many people live there. It is one of the most [[population density|densely populated]] countries of the world.
+
+Most people in the Netherlands speak [[Dutch language|Dutch]]. In [[Friesland]], about 200,000 people speak [[Frisian language|Frisian]]. Frisian is the language with the most similarities to English. Some Dutch people speak [[dialect]]s. The Saxon dialects spoken in the northeastern part of the Netherlands are somewhat similar to [[Low German]].
+
+According to a survey done in 2006, 25% of the Dutch people are [[Christian]] and 3% believe in another organised religion, like Judaism, Islam or Hinduism. Twenty-six percent are 'unbounded spiritual' (have their own beliefs and are not tied to a religion). The other 44% are not religious.
+
+==Trains==
+[[Nederlandse Spoorwegen]] ({{lang-en|Dutch Railways}}) or '''NS''' is the main passenger railway operator in the Netherlands. The rail [[infrastructure]] is maintained by network manager [[ProRail]], which was split from NS in 2003. Freight services, formerly operated by '''NS Cargo''', merged with the [[DB Schenker]] group in 2000.
+
+NS runs 4,800 scheduled trains daily. In addition, NS provides international rail services from the Netherlands to other European destinations and carries out concessions on a number of foreign rail markets through its subsidiary [[Abellio (transport company)|Abellio]] such as [[Abellio Greater Anglia]], [[Merseyrail]] and [[ScotRail]].
+
+[[Arriva]] is another passenger railway operator in the Netherlands. It is a [[wikt:subsidiary|subsidiary]] of the German company [[Deutsche Bahn]]. Their local headquarters is based at [[Heerenveen]]. They have been active since 1998.
+
+==Related pages==
+* [[List of rivers of the Netherlands]]
+* [[Netherlands at the Olympics]]
+* [[Netherlands national football team]]
+
+== References ==
+{{reflist}}
+'''Notes'''
+{{Reflist|group=lower-alpha}}
+
+{{Europe}}
+{{European Union}}
+{{North Atlantic Treaty Organisation (NATO)}}
+{{Commons}}
+{{Wikivoyage}}
+
+[[Category:Netherlands| ]]
+[[Category:European Union member states]]
+[[Category:Benelux]]
+[[Category:Current monarchies]]
+[[Category:Dutch-speaking countries]]</text>
+      <sha1>kh52mtsyawezd33iw1ogcd8na007tad</sha1>
+    </revision>
+  </page>
+</mediawiki>

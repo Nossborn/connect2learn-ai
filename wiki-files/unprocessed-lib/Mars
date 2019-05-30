@@ -1,0 +1,267 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>simplewiki</dbname>
+    <base>https://simple.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.34.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mars</title>
+    <ns>0</ns>
+    <id>515</id>
+    <revision>
+      <id>6550706</id>
+      <parentid>6536513</parentid>
+      <timestamp>2019-05-22T16:52:39Z</timestamp>
+      <contributor>
+        <username>Soumya-8974</username>
+        <id>768749</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34268">{{otheruses}}
+{{Infobox planet
+| name                   = Mars
+| symbol                 = [[File:Mars symbol.svg|25px|Astronomical symbol of Mars]]
+| image                  = OSIRIS Mars true color.jpg
+| image_alt              = Mars appears as a red-orange globe with darker blotches and white icecaps visible on both of its poles.
+| caption                = Pictured in natural color in 2007{{efn|This image was taken by the [[Rosetta (spacecraft)|''Rosetta'']] spacecraft's [[Optical, Spectroscopic, and Infrared Remote Imaging System]] (OSIRIS), at a distance of ≈{{convert|240000|km|mi}} during its February 2007 encounter. The view is centered on the [[Aeolis quadrangle]], with [[Gale (crater)|Gale crater]], the landing site of the [[Curiosity (rover)|''Curiosity'' rover]], prominently visible just left of center. The darker, more heavily cratered terrain in the south, [[Terra Cimmeria]], is composed of older terrain than the much smoother and brighter [[Elysium Planitia]] to the north. Geologically recent processes, such as the possible existence of a [[Water on Mars|global ocean]] in Mars's past, could have helped lower-elevated areas, such as Elysium Planitia, retain a more youthful look.}}
+| background             = #f8f9fa
+| pronounced             = {{IPAc-en|audio=en-us-Mars.ogg|ˈ|m|ɑr|z}}
+| adjectives             = [[Martian]]
+| orbit_ref              =
+| epoch                  = [[J2000]]
+| aphelion               = {{convert|249200000|km|mi AU|comma=gaps|abbr=on|disp=x|&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| perihelion             = {{convert|206700000|km|mi AU|comma=gaps|abbr=on|disp=x|&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| semimajor              = {{convert|227939200|km|mi AU|comma=gaps|abbr=on|disp=x|&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| eccentricity           = {{val|0.0934}}
+| period                 = {{convert|686.971|d|years|comma=gaps|abbr=on|lk=out|disp=x|&lt;br /&gt;&lt;small&gt;(|; {{val|668.5991}}&amp;nbsp;[[timekeeping on Mars|sols]])&lt;/small&gt;}}
+| synodic_period         = {{convert|779.96|d|years|comma=gaps|abbr=on|lk=out|disp=x|&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| avg_speed              = {{convert|24.007|km/s|km/h mph|comma=gaps|abbr=on|disp=x|&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| inclination            = {{ublist|class=nowrap |{{val|1.850|u=°}} to [[ecliptic]]; |{{val|5.65|u=°}} the [[Sun]]'s [[equator]]; |{{val|1.67|u=°}} to [[invariable plane]]}}
+| asc_node               = {{val|49.558|u=°}}
+| arg_peri               = {{val|286.502|u=°}}
+| satellites             = [[Moons of Mars|2]]
+| allsatellites          = yes
+| mean_radius            = {{convert|3389.5|±|0.2|km|mi|1|comma=gaps|abbr=on|disp=x| &lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| equatorial_radius      = {{convert|3396.2|±|0.1|km|mi|1|comma=gaps|abbr=on|disp=x| &lt;br /&gt;&lt;small&gt;(|; 0.533 Earths)&lt;/small&gt;}}
+| polar_radius           = {{convert|3376.2|±|0.1|km|mi|1|comma=gaps|abbr=on|disp=x| &lt;br /&gt;&lt;small&gt;(|; 0.531 Earths)&lt;/small&gt;}}
+| flattening             = {{val|0.00589|0.00015}} 
+| surface_area           = {{convert|144798500|km2|sqmi|comma=gaps|abbr=on|disp=x|&lt;ref&gt;{{cite book |first1=Peter |last1=Grego |title=Mars and How to Observe It |url=https://books.google.com/books?id=A3IMq5TTRP4C&amp;pg=PA3 |publisher=[[Springer Science+Business Media]] |date=June 6, 2012 |isbn=978-1-4614-2302-7 |via=Google Books}}&lt;/ref&gt;&lt;br /&gt;&lt;small&gt;(|; 0.284 Earths&lt;!--144,371,391 km2 in [http://www.peeep.us/7437231b]--&gt;)&lt;/small&gt;}}
+| volume                 = {{val|1.6318|e=11|u=km3}}&lt;br /&gt;&lt;small&gt;(0.151 Earths)&lt;/small&gt;
+| mass                   = {{val|6.4171|e=23|u=kg}}&lt;br /&gt;&lt;small&gt;(0.107 Earths)&lt;/small&gt;
+| density                = {{convert|3.9335|g/cm3|lb/cuin|4|comma=gaps|abbr=on|disp=x|&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| surface_grav           = {{convert|3.72076|m/s2|ft/s2|comma=gaps|abbr=on|disp=x|&lt;ref name="Hirt2012"&gt;{{Cite journal |title=Kilometer-resolution gravity field of Mars: MGM2011 |journal=Planetary and Space Science |last1=Hirt |first1=C. |last2=Claessens |first2=S. J. |last3=Kuhn |first3=M. |last4=Featherstone |first4=W. E. |volume=67 |issue=1 |pages=147–154 |date=July 2012 |doi=10.1016/j.pss.2012.02.006 |bibcode=2012P&amp;SS...67..147H|hdl=20.500.11937/32270 }}&lt;/ref&gt;&lt;br /&gt;&lt;small&gt;(|; 0.3794&amp;nbsp;''[[g-force|g]]'')&lt;/small&gt;}}
+| moment_of_inertia_factor = {{val|0.3662|0.0017}}
+| escape_velocity        = {{convert|5.027|km/s|km/h mph|comma=gaps|abbr=on|disp=x|&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| sidereal_day           = {{val|1.025957|u=day}}&lt;br /&gt;{{RA|24|37|22}}
+| rot_velocity           = {{convert|868.22|km/h|m/s km/h mph|order=out|comma=gaps|abbr=on|disp=x|&lt;br /&gt;&lt;small&gt;(|)&lt;/small&gt;}}
+| axial_tilt             = {{val|25.19|u=°}} to its orbital plane
+| right_asc_north_pole   = {{val|317.68143|u=°}}&lt;br /&gt;{{RA|21|10|44}}
+| declination            = {{val|52.88650|u=°}}
+| albedo                 = {{ublist|class=nowrap |0.170 [[Geometric albedo|geometric]] |0.25 [[Bond albedo|Bond]]}}
+| temp_name1             = [[Kelvin]]
+| min_temp_1             = 130&amp;nbsp;K
+| mean_temp_1            = 210&amp;nbsp;K
+| max_temp_1             = 308&amp;nbsp;K
+| temp_name2             = [[Celsius]]
+| min_temp_2             = −143&amp;nbsp;°C&lt;ref name=cold /&gt;
+| mean_temp_2            = −63&amp;nbsp;°C
+| max_temp_2             = 35&amp;nbsp;°C&lt;ref name=hot /&gt;
+| temp_name3             = [[Fahrenheit]]
+| min_temp_3             = −226&amp;nbsp;°F&lt;ref name=cold /&gt;
+| mean_temp_3            = −82&amp;nbsp;°F
+| max_temp_3             = 95&amp;nbsp;°F&lt;ref name=hot /&gt;
+| magnitude              = −2.94 to +1.86
+| angular_size           = 3.5–25.1″
+| atmosphere_ref         =
+| surface_pressure       = 0.636 (0.4–0.87)&amp;nbsp;[[pascal (unit)|kPa]]&lt;br /&gt;{{convert|0.636|kPa|atm|disp=out}}
+| atmosphere_composition = {{plainlist|
+* 95.97% [[carbon dioxide]]
+* 1.93% [[argon]]
+* 1.89% [[nitrogen]]
+* 0.146% [[oxygen]]
+* 0.0557% [[carbon monoxide]]
+ }}
+}}
+'''Mars''' is the fourth [[planet]] from the [[Sun]] in the [[Solar System]] and the second-smallest solid planet. Mars is a [[cold]] [[terrestrial planet]] with polar ice caps of [[wikt:frozen|frozen]] [[water]] and [[carbon dioxide]].&lt;ref name="mep"&gt;{{cite web|url=http://mars.jpl.nasa.gov/allaboutmars/extreme/|title=Mars: Extreme Planet|publisher=NASA|accessdate=2011-10-25}}&lt;/ref&gt;&lt;ref name=nasa070315/&gt; It has the largest [[volcano]] in the [[Solar System]], and some very large [[impact craters]].&lt;ref name=mep /&gt; Mars is named after the [[mythology|mythological]] [[Roman mythology|Roman]] [[Deity|god]] of [[war]] because it appears of red [[colour]].
+
+[[Space probe]]s such as the [[Viking program]] landers are the main tools for the [[exploration of Mars]].
+
+== Appearance ==
+[[File:Mars rocks.jpg|thumb|right|Surface with rocks everywhere photographed by [[Mars Pathfinder]]]]
+
+Mars is a [[terrestrial planet]] and made of [[mineral|rock]]. The ground there is [[red]] because of [[iron oxide]] (rust) in the rocks and [[dust]].&lt;ref&gt;{{cite web|url=https://web.archive.org/web/20080106181124/http://erc.arc.nasa.gov/MarsVolc/basalt.htm|title=NASA Mars Page|work=Volcanology of Mars (Retrieved via the [[Internet Archive]])|accessdate=2009-05-13}}&lt;/ref&gt; The planet's [[atmosphere]] is very thin. It is mostly [[carbon dioxide]] with some [[argon]] and [[nitrogen]] and tiny amounts of other gases including [[oxygen]]. The [[temperature]]s on Mars are colder than on Earth, because it is farther away from the Sun and has less air to keep heat in. There is water [[ice]] and frozen carbon dioxide at the north and south [[Geographical pole|poles]].&lt;ref name=nasa070315/&gt; Mars does not have any liquid [[water]] on the surface now, but signs of run-off on the surface were probably caused by water.
+
+The average [[wikt:thick|thickness]] of the planet's crust is about 50&amp;nbsp;km (31&amp;nbsp;mi), with a maximum thickness of 125&amp;nbsp;km (78&amp;nbsp;mi).&lt;ref&gt;{{cite news |author = Dave Jacqué |url = http://www.anl.gov/Media_Center/News/2003/030926mars.htm |title = APS X-rays reveal secrets of Mars' core | publisher = Argonne National Laboratory | date = 2003-09-26 | accessdate = 2006-07-01 | language = English }}&lt;/ref&gt;
+
+=== Moons ===
+Mars has two small [[Satellite (natural)|moons]], called [[Phobos (moon)|Phobos]] and [[Deimos (moon)|Deimos]].
+
+== Physical geography ==
+=== Rotation ===
+A Martian day is called a ''sol'', and is a little longer than an Earth day.  Mars rotates in 24 hours and 37 minutes.  It rotates on a tilted axis, just like the Earth does, so it has four different [[season]]s.  Of all the planets in the Solar System, the seasons of Mars are the most Earth-like, due to their similar [[axial tilt]].  The lengths of the Martian seasons are almost twice those of Earth's, as Mars's greater distance from the Sun leads to the Martian year being almost two Earth years long.
+
+Martian surface temperatures vary from lows of about {{convert|−143 |°C|°F}} (at the winter polar caps)&lt;ref name="cold"&gt;[http://www.astronomycafe.net/qadir/q2681.html What is the typical temperature on Mars?] Astronomycafe.net. Retrieved on 2012-08-14&lt;/ref&gt; to highs of up to {{convert|35|°C|°F}} (in equatorial summer).&lt;ref name="hot"&gt;[http://marsrover.nasa.gov/spotlight/20070612.html Mars Exploration Rover Mission: Spotlight]. Marsrover.nasa.gov (2007-06-12). Retrieved on 2012-08-14.&lt;/ref&gt; The wide range in temperatures is due mostly to the thin atmosphere which cannot store much solar heat. The planet is also 1.52 times as far from the Sun as Earth, resulting in just 43% of the amount of sunlight.&lt;ref name="disc920901"&gt;Kluger, Jeffrey 1992. "[http://discovermagazine.com/1992/sep/marsinearthsimag105#.UO_l29u2Ya8 Mars, in Earth's Image]". ''Discover Magazine''&lt;/ref&gt;
+
+=== Water ===
+[[File:Nasa mars opportunity rock water 150 eng 02mar04.jpg|thumb|Microscopic photo taken by ''[[Opportunity rover|Opportunity]]'' showing a gray [[hematite]] [[concretion]], suggesting the past presence of liquid water]]
+
+A 2015 report says Martian dark streaks on the surface were affected by water.&lt;ref&gt;Amos, Jonathan 2015. Martian salt streaks 'painted by liquid water'. ''BBC News'' Science &amp; Environment. [https://www.bbc.co.uk/news/science-environment-34379284]&lt;/ref&gt;
+
+Liquid water cannot exist on the surface of Mars due to its low [[atmospheric pressure]] (there's not enough air to hold it in),&lt;ref&gt;The reason is that water [[sublimation|sublimates]] at low atmospheric pressure. In other words, it turns directly into water vapour.&lt;/ref&gt; except at the lowest elevations for short periods.&lt;ref name="jgr110"&gt;Heldmann, Jennifer L. ''et al'' 2005. Formation of Martian gullies by the action of liquid water flowing under current Martian environmental conditions. ''Journal of Geophysical Research'' '''110''' (E5). PDF: [http://daleandersen.seti.org/Dale_Andersen/Science_articles_files/Heldmann%20et%20al.2005.pdf]&lt;/ref&gt; The two polar ice caps appear to be made largely of frozen water.&lt;ref name=nasa070315/&gt; The amount of ice in the south polar ice cap, if melted, would be enough to cover the entire planet's surface 11 meters deep.&lt;ref name="nasa070315"&gt;{{cite web|url=https://web.archive.org/web/20090420204127/http://jpl.nasa.gov/news/news.cfm?release=2007-030|title=NASA Jet Propulsion Laboratory - News|date=20 April 2009|website=web.archive.org}}&lt;/ref&gt; A [[permafrost]] mantle stretches from the pole to latitudes of about 60°.&lt;ref name="kostama"&gt;Kostama V.-P. ''et al'' 2006. Recent high-latitude icy mantle in the northern plains of Mars: Characteristics and ages of emplacement. ''Geophysical Research Letters'' '''33''' (11): L11201. [http://onlinelibrary.wiley.com/doi/10.1029/2006GL025946/abstract]&lt;/ref&gt;
+
+Geological evidence gathered by unmanned missions suggest that Mars once had much liquid water on its surface.&lt;ref name="marswater"&gt;NASA 2006. NASA images suggest water still flows in brief spurts on Mars. [http://www.nasa.gov/mission_pages/mars/news/mgs-20061206.html]&lt;/ref&gt; In 2005, radar data revealed the presence of large quantities of water ice at the poles,&lt;ref name="specials1"&gt;{{cite web|url=http://www.esa.int/Our_Activities/Space_Science/Mars_Express/Water_ice_in_crater_at_Martian_north_pole|title=Water ice in crater at Martian north pole|first=|last=esa|website=European Space Agency}}&lt;/ref&gt; and at mid-latitudes. The Mars rover ''[[Spirit rover|Spirit]]'' sampled [[chemical compounds]] containing water molecules in March 2007. The ''[[Phoenix (spacecraft)|Phoenix]]'' lander found water ice in shallow Martian soil in July  2008.&lt;ref name="spacecraft1"&gt;{{cite web|url=https://www.nasa.gov/mission_pages/phoenix/news/phoenix-20080731.html|title=NASA - NASA Spacecraft Confirms Martian Water, Mission Extended|website=www.nasa.gov}}&lt;/ref&gt;
+[[Landforms]] seen on Mars strongly suggest that liquid water at some time existed on the planet's surface. Huge areas of ground have been scraped and eroded.
+
+==== Polar caps ====
+{{multiple image
+| align = right
+| direction = vertical
+| width = 200
+| image1 = Martian north polar cap.jpg &lt;!-- Mars NPArea-PIA00161 modest.jpg --&gt;
+| caption1 = North polar early summer ice cap (1999)
+| image2 = South Polar Cap of Mars during Martian South summer 2000.jpg
+| caption2 = South polar midsummer ice cap (2000)
+}}
+
+Mars has two permanent polar ice caps. During a pole's winter, it lies in continuous darkness, chilling the surface and causing the [[Deposition (geology)|deposition]] of 25–30% of the atmosphere into slabs of [[Carbon dioxide|CO&lt;sub&gt;2&lt;/sub&gt;]] ice ([[dry ice]]). When the poles are again exposed to sunlight, the frozen CO&lt;sub&gt;2&lt;/sub&gt; [[Sublimation|sublimes]] (turns to vapor), creating enormous winds that sweep off the poles as fast as 400&amp;nbsp;km/h. Each season this moves large amounts of dust and water vapor, giving rise to Earth-like frost and large [[cirrus cloud]]s and dust storms. Clouds of water-ice were photographed by the ''[[Opportunity rover|Opportunity]]'' rover in 2004.
+
+The polar caps at both poles consist primarily of water ice.&lt;ref name=nasa070315/&gt;
+
+=== Atmosphere ===
+Mars has a very thin atmosphere with barely any oxygen (it is mostly [[carbon dioxide]]).  Because there is an [[atmosphere]], however thin it is, the sky does change colour when the sun rises and sets.  The dust in the Martian atmosphere makes Martian sunsets somewhat [[blue]].  Mars's atmosphere is too thin to protect Mars from [[meteor]]s, which is why Mars has so many craters.
+
+=== Meteorite craters ===
+After the formation of the planets, all experienced the "[[Late Heavy Bombardment]]". About 60% of the surface of Mars shows a record of impacts from that era.&lt;ref name=barlow88&gt;Barlow N.G. 1988. Conditions on early Mars: constraints from the cratering record. MEVTV Workshop on ''Early tectonic and volcanic evolution of Mars''. LPI Technical Report 89-04 (Easton, Maryland: Lunar and Planetary Institute) p15.&lt;/ref&gt; Much of the remaining surface is probably lying over the immense impact basins caused by those events. There is evidence of an enormous impact basin in the northern hemisphere of Mars, spanning {{convert|10600|by|8500|km|mi|abbr=on}}, or roughly four times larger than the largest impact basin yet discovered.&lt;ref&gt;Sample, Ian 28 June 2008. Cataclysmic impact created north-south divide on Mars. London: Science @ guardian.co.uk. [https://www.theguardian.com/science/2008/jun/26/mars.asteroid?gusrc=rss&amp;feed=science]&lt;/ref&gt; This theory suggests that Mars was struck by a [[Pluto]]-sized body about four billion years ago. The event is thought to be the cause of the difference between the Martian hemispheres. It made the smooth [[Borealis basin]] that covers 40% of the planet.&lt;ref name="sciam"&gt;Minkel J.R. June 2008. Giant asteroid flattened half of Mars, studies suggest. ''Scientific American''. [http://www.scientificamerican.com/article/giant-asteroid-flattened/]&lt;/ref&gt;&lt;ref&gt;Chang, Kenneth June 26, 2008. Huge meteor strike explains Mars's shape, reports say. ''New York Times''. [https://www.nytimes.com/2008/06/26/science/space/26mars.html?em&amp;ex=1214712000&amp;en=bd0be05a87523855&amp;ei=5087%0A]&lt;/ref&gt;
+
+Some meteorites hit Mars with so much force a few pieces of Mars went flying into space {{ndash}} even to Earth! Rocks on Earth are sometimes found which have chemicals that are exactly like the ones in Martian rocks. These rocks also look like they fell really quickly through the atmosphere, so it is [[wikt:reasonable|reasonable]] to think they came from Mars.
+
+=== Geography ===
+Mars is home to the highest known mountain in the Solar System, [[Olympus Mons]]. Olympus Mons is about 17 miles (or 27 kilometers) high. This is more than three times the height of Earth's tallest mountain, [[Mount Everest]]. It is also home to [[Valles Marineris]], the third largest [[Rift (geology)|rift]] system (canyon) in the Solar System, 4,000&amp;nbsp;km long.
+
+== Observation of Mars ==
+[[File:Trouvelot - The planet Mars - 1877.jpg|200px|thumb|A coloured drawing of Mars made in 1877 by the French astronomer Trouvelot]]
+
+Our records of watching and recording Mars start with [[ancient Egypt]]ian astronomers in the [[2nd millennium BC]].&lt;ref name=paob85&gt;{{cite journal | last=Novaković | first=B. | year=2008 | title=Senenmut: an ancient Egyptian astronomer | journal=Publications of the Astronomical Observatory of Belgrade | volume=85 | pages=19–23 | bibcode=2008POBeo..85...19N | arxiv=0801.1331 }}&lt;/ref&gt;&lt;ref name=marshall89&gt;{{cite book | first=Marshall | last=Clagett | year=1989 | title=Ancient Egyptian science: calendars, clocks, and astronomy | volume=2 | series=Ancient Egyptian Science | pages=162–163 | publisher=Diane | isbn=0-87169-214-7 }}&lt;/ref&gt;
+
+Detailed observations of the location of Mars were made by [[Babylonian|Babylonian astronomers]] who developed methods using math to predict the future position of the planet. The ancient [[Ancient Greece|Greek philosophers]] and astronomers developed a model of the solar system with the Earth at the center ('geocentric'), instead of the sun. They used this model to explain the planet's motions.&lt;ref&gt;{{cite web|title=Geocentric model|url=http://www.universetoday.com/32607/geocentric-model/|publisher=UniverseToday|accessdate=14 September 2013}}&lt;/ref&gt;  [[India]]n and [[Islamic]] astronomers estimated the size of Mars and its distance from Earth.&lt;ref name=swerdlow98&gt;{{cite book | first=Noel M. | last=Swerdlow | year=1998 | pages=34–72 | title=The Babylonian theory of the planets | publisher=Princeton University Press | isbn=0-691-01196-6 | chapter-url=Periodicity and Variability of Synodic Phenomenon | url=https://books.google.com/books?id=0Df8Ma-zpgIC&amp;pg=PA34 }}&lt;/ref&gt;&lt;ref name=valery_cumont12&gt;{{cite book | last1=Valery | first1=Franz | last2=Cumont | first2=Marie | title=Astrology and religion among the Greeks and Romans | work=American lectures on the history of religions | publisher=Putnam | page=46 | year=1912 | url=https://books.google.com/books?id=82wKgaD_3dEC&amp;pg=PA46 }}&lt;/ref&gt; Similar work was done by [[Chinese people|Chinese]] astronomers.&lt;ref name=evans98&gt;{{cite book | first=James | last=Evans | year=1998 | title=The history &amp; practice of ancient astronomy | page=297 | publisher=Oxford University Press | isbn=0-19-509539-1 | url=https://books.google.com/books?id=Qg0_uiaWhT8C&amp;pg=PA297 }}&lt;/ref&gt;
+ 
+In the 16th century, [[Nicholas Copernicus]] proposed a model for the [[Solar System]] in which the planets follow circular orbits about the [[Sun]]. This 'heliocentric' model was the beginning of modern astronomy. It was revised by [[Johannes Kepler]], who gave an [[Ellipse|elliptical orbit]] for Mars which better fit the data from our observations.&lt;ref name=gingerich_maclachlan05&gt;{{cite book | last1=Gingerich | first1=Owen | last2=MacLachlan | first2=James H. | year=2005 | title=Nicolaus Copernicus: making the Earth a planet | pages=57–61 | work=Oxford portraits in science | publisher=Oxford University Press | isbn=0-19-516173-4 | url=https://books.google.com/books?id=9k-pHc8l-TgC&amp;pg=PA57 }}&lt;/ref&gt;&lt;ref name=seop&gt;{{cite journal | title=Nicolaus Copernicus | date=2005 | editor1-last=Zalta | editor1-first=Edward N. | work=Stanford Encyclopedia of Philosophy | url=http://plato.stanford.edu/entries/copernicus/ | accessdate=2010-01-09 }}&lt;/ref&gt;&lt;ref name=sat57&gt;{{cite journal | last=Breyer | first=Stephen | year=1979 | title=Mutual occultation of planets | journal=Sky and Telescope | volume=57 | issue=3 | page=220 |bibcode = 1979S&amp;T....57..220A }}&lt;/ref&gt;&lt;ref name=longair03&gt;{{cite book | first=M.S. | last=Longair | year=2003 | edition=2nd | title=Theoretical concepts in physics: an alternative view of theoretical reasoning in physics | pages=25–28 | publisher=Cambridge University Press | isbn=0-521-52878-X | url=https://books.google.com/books?id=bA9Lp2GH6OEC&amp;pg=PA25 }}&lt;/ref&gt;
+
+The first observations of Mars by [[telescope]] was by [[Galileo Galilei]] in 1610. Within a century, astronomers discovered distinct [[albedo]] features (changes in brightness) on the planet, including the dark patch and polar [[ice cap]]s. They were able to find the planet's day ([[rotation period]]) and [[axial tilt]].&lt;ref name=jbaa94&gt;{{cite journal | last=Moore | first=P. | year=1984 | title=The mapping of Mars | journal=Journal of the British Astronomical Association | volume=94 | issue=2 | pages=45–54 | bibcode=1984JBAA...94...45M }}&lt;/ref&gt;&lt;ref name=sheehan_ch2&gt;{{cite web | first=William | last=Sheehan | year=1996 | title=Chapter 2: pioneers | work=The planet Mars: a history of observation and discovery | publisher=University of Arizona | url=http://www.uapress.arizona.edu/onlinebks/mars/chap02.htm | accessdate=2010-01-16 }}&lt;/ref&gt;
+
+Better telescopes developed early in the 19th century allowed permanent Martian [[albedo]] features to be mapped in detail. The first crude map of Mars was published in 1840, followed by better maps from 1877 onward. Astronomers mistakenly thought they had detected the [[Spectroscopy|spectroscopic]] mark of water in the Martian atmosphere, and the idea of life on Mars became [[wikt:popularise|popular]] among the public.
+
+Yellow clouds on Mars have been observed since the 1870s, which were windblown sand or dust. During the 1920s, the range of Martian surface temperature was measured; it ranged from {{ndash}}85 to 7 &lt;sup&gt;o&lt;/sup&gt;C. The planetary atmosphere was found to be arid with only traces of oxygen and water. In 1947, [[Gerard Kuiper]] showed that the thin Martian atmosphere contained extensive [[carbon dioxide]]; roughly double the quantity found in Earth's atmosphere. The first standard naming of Mars surface features was set in 1960 by the [[International Astronomical Union]].
+
+Since the 1960s, multiple robotic [[spacecraft]] and [[rover (space exploration)|rovers]] have been sent to explore Mars from orbit and the surface. The planet has remained under observation by ground and space-based instruments across a broad range of the [[electromagnetic spectrum]] (visible light, infrared and others). The discovery of [[meteorite]]s on Earth that came from Mars has allowed laboratory examination of the chemical conditions on the planet.
+
+=== Martian 'canals' ===
+{{Multiple image|direction=vertical|align=right|width=200|image1=Giovanni map mars.jpg|caption1=Map of Mars by Giovanni Schiaparelli, compiled between 1877 and 1886, showing ''canali'' features as fine lines|alt1=A cylindrical projection map of mars showing light and dark regions accompanied by various linear features. The major features are labelled.|image2=Lowell Mars channels.jpg|caption2=Mars sketched as observed by Lowell sometime before 1914. (South top)|alt2=Two disks show darker patches connected by linear features.}}
+
+During the 1877 opposition, Italian astronomer [[Giovanni Schiaparelli]] used a {{convert|22|cm|abbr=on}} telescope to help produce the first detailed map of Mars. What caught people's attention was that the maps had features he called ''canali''.  These were later shown to be an [[optical illusion]] (not real). These ''canali'' were supposedly long straight lines on the surface of Mars to which he gave names of famous rivers on Earth. His term ''canali'' was popularly mistranslated in English as ''[[canals]]'', and thought to be made by intelligent beings.&lt;ref name=milone_wilson08&gt;{{cite book | last1=Milone | first1=Eugene F. | last2=Wilson | first2=William J.F. | title=Background science and the inner Solar System | page=228 | volume=1 | series=Solar System Astrophysics | publisher=Springer | year=2008 | isbn=0-387-73154-7 | url=https://books.google.com/books?id=CX040NargCEC&amp;pg=PA228 }}&lt;/ref&gt;&lt;ref name=sagan80&gt;{{cite book | last=Sagan | first=Carl | title=Cosmos | publisher=Random House | year=1980 | page=107 | isbn=0-394-50294-9 | url=https://books.google.com/books?id=1gR8lSPrPq4C&amp;pg=PA107 }}&lt;/ref&gt;
+
+Other astronomers thought they could see the canals too, especially the American astronomer [[Percival Lowell]] who drew maps of an artificial network of [[canal]]s on Mars.&lt;ref name=lang03&gt;{{cite book | first=Kenneth R. | last=Lang | year=2003
+ | title=The Cambridge guide to the Solar System | page=251
+ | publisher=Cambridge University Press | isbn=0-521-81306-9
+ | url=https://books.google.com/books?id=S4xDhVCxAQIC&amp;pg=PA251 }}&lt;/ref&gt;&lt;ref name=basalla06&gt;{{cite book | first=George | last=Basalla | year=2006
+ | title=Civilized life in the Universe: scientists on intelligent extraterrestrials | pages=67–88
+ | publisher=Oxford University Press US | isbn=0-19-517181-0
+ | chapter-url=Percival Lowell: Champion of Canals
+ | url=https://books.google.com/books?id=oMQIQMmAgoIC&amp;pg=PA67 }}&lt;/ref&gt;&lt;ref name=isis96&gt;{{cite journal | last1=Maria | first1=K. | last2=Lane | first2=D. | year=2005
+ | title=Geographers of Mars | journal=Isis | pmid=16536152 | volume=96 | issue=4 | pages=477–506 | doi=10.1086/498590 }}&lt;/ref&gt;&lt;ref name=ba3&gt;{{cite journal | last=Perrotin | first=M. | year=1886
+ | title=Observations des canaux de Mars
+ | journal=Bulletin Astronomique, Serie I |volume=3 | pages=324–329 | bibcode=1886BuAsI...3..324P | language=French }}&lt;/ref&gt;&lt;ref name=pasp33&gt;{{cite journal | last=Slipher | first=E. C. | year=1921
+ | title=Photographing the planets with especial reference to Mars
+ | journal=Publications of the Astronomical Society of the Pacific
+ | volume=33 | issue=193 | pages=127–139 | doi=10.1086/123058 | bibcode=1921PASP...33..127S }}&lt;/ref&gt;
+
+Although these results were widely accepted, they were contested.&lt;ref name=pa21&gt;{{cite journal | last=Antoniadi | first=E.M. | year=1913 | title=Considerations on the physical appearance of the planet Mars | journal=Popular Astronomy | volume=21 | pages=416–424 | bibcode=1913PA.....21..416A }}&lt;/ref&gt; Greek astronomer [[Eugène M. Antoniadi]] and English naturalist [[Alfred Russel Wallace]] were against the idea; Wallace was extremely outspoken.&lt;ref name=wallace07&gt;{{cite book | first=Alfred Russel | last=Wallace | year=1907 | title=Is Mars habitable?: a critical examination of Professor Percival Lowell's book "Mars and its canals," with an alternative explanation | publisher=Macmillan | pages=102–110 | url=https://books.google.com/books?id=Gs1HAAAAIAAJ&amp;pg=PA102 }}&lt;/ref&gt; As bigger and better telescopes were used, fewer long, straight ''canali'' were observed. During an observation in 1909 by Flammarion with a {{convert|84|cm|in|abbr=on}} telescope, irregular patterns were observed, but no ''canali'' were seen.&lt;ref name=nature412&gt;{{cite journal | title=Decline and fall of the Martian empire | last=Zahnle | first=K. | journal=Nature | volume=412 | year=2001 | issue=6843 | pmid=11449281 | doi=10.1038/35084148 | pages=209–213}}&lt;/ref&gt;
+
+== Life on Mars? ==
+[[File:Mars Valles Marineris EDIT.jpg|250 px|default|right|Mars by Viking 1 in 1980]]
+
+Because Mars is the one of the closest planets to [[Earth]] in the [[Solar System]], many have wondered if there is any kind of [[life]] on Mars. Today we know that the kind of life, if any, would be some simple [[bacteria]]-type organism.
+
+=== Meteorites ===
+[[NASA]] maintains a catalog of 34 Mars [[meteorite]]s, that is, meteorites which originally came from Mars.&lt;ref&gt;{{Cite web|url=http://www2.jpl.nasa.gov/snc/index.html|title=Mars Meteorites|accessdate=February 16, 2010|publisher=NASA}}&lt;/ref&gt; These assets are highly valuable since they are the only physical samples available of Mars.
+
+Studies at NASA's [[Johnson Space Center]] show that at least three of the meteorites contain possible evidence of past life on Mars, in the form of microscopic structures resembling fossilized bacteria (so-called [[Organism|biomorphs]]). Although the scientific evidence collected is reliable, and the rocks are correctly described, what made the rocks look like they do is not clear. To date, scientists are still trying to agree if it really is evidence of simple life on Mars.&lt;ref name="meteoritos-Bio"&gt;[http://mars.jpl.nasa.gov/mgs/sci/fifthconf99/6142.pdf Evidence for ancient Martian life]. Gibson E. K. Jr. ''et al'' Mail Code SN2, NASA Johnson Space Center, Houston TX 77058, USA.&lt;/ref&gt;
+
+Over the past few decades, scientists have agreed that when using meteorites from other planets found on Earth (or rocks brought back to Earth), various things are needed to be sure of life. Those things include:&lt;ref name="meteoritos-Bio"/&gt;
+
+#Did the rock comes from the right time and place on the planet for life to exist?	
+#Does the sample contain evidence of [[bacterial]] [[cells]] (does it show fossils of some kind, even if very tiny)?
+#Is there any evidence of biominerals? ([[minerals]] usually caused by living things)
+#Is there any evidence of [[isotope]]s typical of life?
+#Are the features part of the meteorite, and not contamination from Earth?
+
+For people to agree on past life in a geologic sample, most or all of these things must be met. This has not happened yet, but investigations are still in progress.&lt;ref name="meteoritos-Bio"/&gt; Reexaminations of the biomorphs found in the three Martian meteorites are underway.&lt;ref&gt;{{cite web|url=https://spaceflightnow.com/news/n1001/09marslife/|title=Spaceflight Now - Breaking News - Three Martian meteorites triple evidence for Mars life|website=spaceflightnow.com}}&lt;/ref&gt;
+
+=== The significance of water ===
+Liquid water is necessary for life and [[metabolism]], so if water was present on Mars, the chances of life evolving is improved. The Viking orbiters found evidence of possible river valleys in many areas, [[erosion]] and, in the southern hemisphere, branched streams.&lt;ref&gt;Strom R.G., Steven K. Croft, and Nadine G. Barlow 1992. ''The Martian impact cratering record''.University of Arizona Press. {{ISBN|0-8165-1257-4}}&lt;/ref&gt;&lt;ref&gt;Raeburn P. 1998. Uncovering the secrets of the red planet Mars. National Geographic Society. Washington D.C.&lt;/ref&gt;&lt;ref&gt;Moore P. ''et a'' 1990. ''The Atlas of the Solar System''. Mitchell Beazley Publishers NY.&lt;/ref&gt; Since then, rovers and orbiters have also looked closely and eventually proved water was on the surface at one time, and is still found as ice in the polar ice caps and underground.
+
+=== Today ===
+So far, scientists have not found life on Mars, either living or [[extinct]]. Several [[space probe]]s have gone to Mars to study it. Some have [[orbit]]ed (gone around) the planet, and some have landed on it. There are pictures of the surface of Mars that were sent back to Earth by the probes. Some people are interested in sending [[astronaut]]s to visit Mars. They could do a better search, but getting astronauts there would be difficult and expensive. The astronauts would be in space for many years, and it could be very dangerous because of [[radiation]] from the sun.  So far we have only sent unmanned probes.
+
+The most recent probe to the planet is the [[Mars Science Laboratory]].  It landed on [[Aeolis Palus]] in Gale Crater on Mars on 6 August 2012.&lt;ref name ="Space-20120806"&gt;{{cite web |last=Wall |first=Mike |title=Touchdown! Huge NASA rover lands on Mars |url=http://www.space.com/16932-mars-rover-curiosity-landing-success.html |date=2012-08-06 |publisher=Space.com |accessdate=2012-12-31 }}&lt;/ref&gt; It brought with it a mobile explorer called 'Curiosity'. It is the most advanced space probe ever. Curiosity has dug up Martian soil and studied it in its laboratory. It has found [[sulfur]], [[chlorine]], and water molecules.&lt;ref&gt;Mars Science Laboratory. NASA 2012. http://www.nasa.gov/mission_pages/msl/news/msl20121203.html&lt;/ref&gt;
+
+=== Popular culture ===
+{{main|Mars in fiction}}
+Some famous stories were written about this idea. The writers used the name "[[Martian]]s" for [[intelligent]] [[being]]s from Mars. In 1898, [[H. G. Wells]] wrote ''The War of the Worlds'', a famous [[novel]] about Martians attacking the Earth.&lt;ref name=pc&gt;{{cite web|url=http://mars.jpl.nasa.gov/allaboutmars/mystique/literature/|title=Pop Culture Mars: Literature|publisher=NASA|accessdate=2011-10-25}}&lt;/ref&gt;  In 1938, [[Orson Welles]] broadcast a [[radio]] version of this story in the [[United States]], and many people thought it was really happening and were very afraid.&lt;ref name=pc2&gt;{{cite web|url=http://mars.jpl.nasa.gov/allaboutmars/mystique/filmradio/|title=Pop Culture Mars: Film &amp; Radio|publisher=NASA|accessdate=2011-10-25}}&lt;/ref&gt; Beginning in 1912, [[Edgar Rice Burroughs]] wrote several novels about adventures on Mars.
+  
+== References ==
+{{Reflist}}
+'''Notes'''
+{{Reflist|group=lower-alpha}}
+
+== Other websites ==
+{{sisterlinks|Mars|commonscat=yes|commons=Mars (planet)}}
+* [http://space.wikia.com/wiki/Mars Mars] at Space Wiki
+* [http://www.spacetelescope.org/images/archive/freesearch/MARS/viewall/1 Mars at ESA/Hubble]
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Mars Mars Profile] by [http://solarsystem.nasa.gov/ NASA's Solar System Exploration]
+* [http://space.about.com/cs/solarsystem/p/marsinfo.htm Mars] - http://space.about.com
+* [http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html NASA's Mars fact sheet]
+* [http://www.sciencedaily.com/news/space_time/mars/ Mars Research News] on https://www.sciencedaily.com
+* [http://www.projectshum.org/Planets/mars.html Planets - Mars] A children's guide to Mars.
+* [http://stevechallis.net/Mars.php Mars] - http://stevechallis.net
+* [http://stevechallis.net/Martian-Canals.php Canals of Mars]
+* [http://ice.tsu.ru/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=24&amp;Itemid=92 New Papers about Martian Geomorphology]
+* [http://en.citizendium.org/wiki/Mars_(planet) Mars (planet)] -Citizendium
+
+{{Solar System}}
+{{Mars}}
+
+[[Category:Mars| ]]</text>
+      <sha1>kwcjcdrnvyl7bytdihy3ie905vi6hgj</sha1>
+    </revision>
+  </page>
+</mediawiki>

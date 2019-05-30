@@ -1,0 +1,350 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>simplewiki</dbname>
+    <base>https://simple.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.34.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cristiano Ronaldo</title>
+    <ns>0</ns>
+    <id>65655</id>
+    <revision>
+      <id>6548229</id>
+      <parentid>6548176</parentid>
+      <timestamp>2019-05-22T07:02:24Z</timestamp>
+      <contributor>
+        <username>DannyS712</username>
+        <id>756599</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/2001:569:7C73:CB00:1182:5A21:F32:F3E2|2001:569:7C73:CB00:1182:5A21:F32:F3E2]] ([[User talk:2001:569:7C73:CB00:1182:5A21:F32:F3E2|talk]]): Unsourced blp. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18720">{{Football player infobox
+|playername= Cristiano Ronaldo
+|image=Shahter-Reak M 2015 (18).jpg
+|image_size=270px
+|caption=Cristiano Ronaldo warming-up before a [[UEFA Champions League]] game against [[F.C. Shakhtar Donetsk|Shakhtar]].
+|fullname=Cristiano Ronaldo dos Santos Aveiro
+|birth_date={{birth date and age|1985|2|5|df=yes}}
+|birth_place=[[Funchal]], [[Madeira]], [[Portugal]]
+|height={{convert|6|ft|1.5|in|cm|abbr=on}}&lt;ref&gt;{{Cite web |url=https://cristianoronaldocr7.info/cristiano-ronaldo-body-height-weight-chest-waist-thighs-biceps|Title=Cristiano Ronaldo height and weight|website=cristianoronaldocr7.info.com|language=en|accessdate=2019-05-21}}&lt;/ref&gt;
+|position=Forward
+|currentclub=[[Juventus F.C.|Juventus]]
+|clubnumber=7
+|youthyears1    = 1992–1995 |youthclubs1 = [[CF Andorinha|Andorinha]]
+|youthyears2    = 1995–1997 |youthclubs2 = [[C.D. Nacional|Nacional]]
+|youthyears3    = 1997–2002 |youthclubs3 = [[Sporting Clube de Portugal|Sporting CP]]
+|years1         = 2002–2003 |clubs1 = [[Sporting Clube de Portugal|Sporting CP]]   |caps1 = 25  |goals1 = 3
+|years2         = 2003–2009 |clubs2 = [[Manchester United F.C.|Manchester United]] |caps2 = 196 |goals2 = 84
+|years3         = 2009–2018     |clubs3 = [[Real Madrid C.F.|Real Madrid]]             |caps3 = 288 |goals3 = 307
+| clubs4 = [[Juventus F.C.|Juventus]]
+| years4 = 2018–
+| caps4 = 6
+| goals4 = 2
+|nationalyears1 = 2001-2002      |nationalteam1 = Portugal U17                                              |nationalcaps1 = 8   |nationalgoals1 = 5
+|nationalyears2 = 2003 |nationalteam2 = Portugal U20 |nationalcaps2 = 5   |nationalgoals2 = 2
+|nationalyears3 = 2002-2003      |nationalteam3 = Portugal U20 |nationalcaps3 = 10   |nationalgoals3 = 3
+|nationalyears4 = 2004 |nationalteam4 = [[Portugal Olympic football team|Portugal U23]] |nationalcaps4 = 4  |nationalgoals4 = 2
+|nationalyears5 = 2003-      |nationalteam5 = [[Portugal national football team|Portugal]]           |nationalcaps5 = 156   |nationalgoals5 = 85
+| medaltemplates = 
+{{Medal|Country|{{POR}}}}
+{{MedalCompetition|[[UEFA European Championship|UEFA Euro]]}}
+{{Medal|W|[[UEFA Euro 2016|France 2016]]|}}
+{{Medal|RU|[[UEFA Euro 2004|2004 Portugal]]|}}
+{{Medal|Bronze|[[UEFA Euro 2012|2012 Poland &amp; Ukraine]]|}}
+{{Medal|Competition|[[FIFA Confederations Cup]]}}
+{{Medal|Bronze|[[2017 FIFA Confederations Cup|2017 Russia]]|}}
+| club-update    = 28 March 2018
+| nationalteam-update = 26 March 2019
+}}
+'''Cristiano Ronaldo dos Santos Aveiro''' (born [[5 February]] [[1985]] in [[Funchal]], [[Madeira]]), better known as '''Cristiano Ronaldo''', is a [[Portugal|Portuguese]] [[footballer]]. He plays for the [[Italy|Italian]] club [[Juventus F.C.|Juventus]] and the [[Portugal national football team|Portuguese national team]]. He is widely considered to be the greatest footballer of the time.
+
+Ronaldo is currently the second most expensive professional football player of all time, after moving from [[Manchester United F.C.|Manchester United]] to [[Real Madrid C.F.|Real Madrid]] for approximately £80m. At his presentation as a Real Madrid player, 80,000 people greeted him at the [[Santiago Bernabéu Stadium]]. This is the world record, passing the 25-year record of 75,000 people at [[Diego Maradona]]'s presentation for [[S.S.C. Napoli|Napoli]].
+
+He is the first player to win the [[UEFA Champions League]] five times.&lt;ref&gt;{{Cite web|url=https://www.uefa.com/uefachampionsleague/news/newsid=2475340.html|title=Ronaldo first to win five Champions League titles|last=UEFA.com|website=UEFA.com|language=en|access-date=2019-05-21}}&lt;/ref&gt;
+
+== Early Life ==
+Ronaldo was born and raised in [[Funchal]], [[Madeira Islands]]. He was diagnosed with a [[Tachycardia|racing heart (Tachycardia)]] at age 15, but he got surgery to treat it. His father named him "Ronaldo" after former U.S. president [[Ronald Reagan]]. In 1997, at age 12, he went on a trial with [[Sporting Clube de Portugal|Sporting CP]], who signed him for a fee of £1,500. He then moved from the [[Madeira Islands]] to [[Lisbon]], to join the Sporting youth academy.
+
+== Club Career ==
+Ronaldo began his professional career at [[Sporting Clube de Portugal]]. On 7 October 2002, Ronaldo played his first game in the Portuguese [[Primeira Liga]], against [[Moreirense F.C.|Moreirense]]. He scored two goals in their 3–0 win. Ronaldo came to the attention of [[Manchester United F.C.|Manchester United]] manager [[Alex Ferguson]] in August 2003, when Sporting defeated United 3–1 in the first game ever played at the [[Estádio José Alvalade]] in Lisbon. His performance impressed the United players, who told Ferguson to sign him. In 2003, Ronaldo joined [[Manchester United F.C.|Manchester United]] from [[Sporting Clube de Portugal|Sporting CP]]. He wanted the number 28, the number he wore at Sporting, but was eventually given the number 7. This number had been worn by [[George Best]], [[Eric Cantona]] and [[David Beckham]] before him. He joined Real Madrid in July 2009. Because number 9 was taken by [[Raúl González]], he had to wait until he left the club in the summer of 2010 to wear number 7.&lt;ref&gt;{{Cite news|url=http://cristianoronaldocr7.info/cristiano-ronaldo-biography/|title=Cristiano Ronaldo Biography|last=|first=|date=2018-10-22|work=|access-date=2018-10-23|archive-url=|archive-date=|dead-url=|language=en-US}}&lt;/ref&gt;
+
+In the 2007/08 [[Season (sports)|season]], he became the only player in the last 25 years to win both the "[[FIFA World Player of the Year]]" and the "Young Player of the Year" [[award]]s in the same season. In that season, he scored a total of 42 goals and won the [[European Golden Boot]], an award which is given to the top scorer of [[league]] matches of every European national league. 
+
+On 18 April 2017, he became the first player to reach 100 goals in the [[UEFA Champions League]], after he scored a [[hat-trick]] in a 4-2 (6-3 global) [[Extra time|extra-time]] win against [[Bayern Munich]]. &lt;ref&gt;{{Cite news|url=http://www.uefa.com/uefachampionsleague/news/newsid=2406572.html#/|title=Ronaldo makes history with 100th European goal|last=|first=|date=12 April 2017|newspaper=UEFA.com|access-date=2018-02-04|archive-url=|archive-date=|dead-url=|work=|language=en|via=UEFA.com}}&lt;/ref&gt;
+
+&lt;br /&gt;
+
+=== Club ===
+
+{{updated|18 March 2018}}
+
+{| class="wikitable" style="text-align:center"
+|+ Club statistics
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup&lt;ref group="lower-alpha"&gt;Includes the [[Taça de Portugal]], [[FA Cup]] and [[Copa del Rey]]&lt;/ref&gt;
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|[[UEFA#Club|Europe]]&lt;ref group="lower-alpha" name="UCL"&gt;All appearance(s) in [[UEFA Champions League]], unless where noted.&lt;/ref&gt;
+!colspan="2"|Other&lt;ref group="lower-alpha"&gt;Includes the [[FA Community Shield]], [[UEFA Super Cup]], [[FIFA Club World Cup]] and [[Supercopa de España]]&lt;/ref&gt;
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|Sporting CP B
+|2002–03
+|Segunda Divisão
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[Sporting Clube de Portugal|Sporting CP]]
+|2002–03
+|[[Primeira Liga]]
+|25||3||3||2||colspan="2"|—||3&lt;ref group="lower-alpha"&gt;One appearance in [[2002–03 UEFA Champions League|UEFA Champions League]], two appearances in [[2002–03 UEFA Cup|UEFA Cup]]&lt;/ref&gt;||0||0||0||31||5
+|-
+|rowspan ="7"|[[Manchester United F.C.|Manchester United]]
+|2003–04
+|rowspan="6"|[[Premier League]]
+|29||4||5||2||1||0||5||0||0||0||40||6
+|-
+|2004–05
+|33||5||7||4||2||0||8||0||0||0||50||9
+|-
+|2005–06
+|33||9||2||0||4||2||8||1||colspan="2"|—||47||12
+|-
+|2006–07
+|34||17||7||3||1||0||11||3||colspan="2"|—||53||23
+|-
+|2007–08
+|34||31||3||3||0||0||11||8||1&lt;ref group="lower-alpha" name="CS"&gt;Appearance in [[FA Community Shield]]&lt;/ref&gt;||0||49||42
+|-
+|2008–09
+|33||18||2||1||4||2||12||4||2&lt;ref group="lower-alpha" name="FCW"&gt;All appearances in [[FIFA Club World Cup]]&lt;/ref&gt;||1||53||26
+|-
+!colspan="2"|Total
+!196!!84!!26!!13!!12!!4!!58!!16!!3!!1!!292!!118
+|-
+|rowspan="10"|[[Real Madrid C.F.|Real Madrid]]
+|2009–10
+|rowspan="9"|[[La Liga]]
+|29||26||0||0||colspan="2"|—||6||7||colspan="2"|—||35||33
+|-
+|2010–11
+|34||40{{efn|&lt;!--BEFORE EDITING: Marca are the only ones who count Ronaldo's goal away to Real Sociedad. La Liga, UEFA and FIFA all list Ronaldo as having 40 goals after the end of Round 37. DO ''not'' EDIT--&gt;Does not include one goal scored on 18 September 2010 against [[Real Sociedad]]. ''[[Marca (newspaper)|Marca]]'', which awards the [[Pichichi Trophy]], attribute it to Ronaldo, while La Liga and UEFA attribute it to [[Pepe (footballer, born 1983)|Pepe]].&lt;ref name="pepegoal"&gt;{{cite news |title=Pepe's goal is awarded to Cristiano Ronaldo |url=http://www.marca.com/2010/09/18/futbol/1adivision/1284847182.html |newspaper=Marca|location=Spain |date=18 September 2010 |accessdate=4 December 2010 |language=Spanish}}&lt;/ref&gt;|name=goal}}||8||7||colspan="2"|—||12||6||colspan="2"|—||54||53
+|-
+|2011–12
+|38||46||5||3||colspan="2"|—||10||10||2&lt;ref group="lower-alpha" name="SCE"&gt;All appearances in [[Supercopa de España]]&lt;/ref&gt;||1||55||60
+|-
+|2012–13
+|34||34||7||7||colspan="2"|—||12||12||2&lt;ref group="lower-alpha" name="SCE"/&gt;||2||55||55
+|-
+|2013–14
+|30||31||6||3||colspan="2"|—||11||17||colspan="2"|—||47||51
+|-
+|2014–15
+|35||48||2||1||colspan="2"|—||12||10||5&lt;ref group="lower-alpha"&gt;One appearance and two goals in [[2014 UEFA Super Cup|UEFA Super Cup]], two appearances in [[2014 Supercopa de España|Supercopa de España]], two appearances in [[2014 FIFA Club World Cup|FIFA Club World Cup]]&lt;/ref&gt;||2||54||61
+|-
+|2015–16
+|36||35||0||0||colspan="2"|—||12||16||colspan="2"|—||48||51
+|-
+|2016–17
+|29||25||2||1||colspan="2"|—||13||12||2&lt;ref group="lower-alpha" name="FCW"/&gt;||4||46||42
+|-
+|2017–18
+|23||22||0||0||colspan="2"|—||8||12||4&lt;ref group="lower-alpha"&gt;One appearance in [[2017 UEFA Super Cup|UEFA Super Cup]], one appearance and one goal in [[2017 Supercopa de España|Supercopa de España]], two appearances and two goals in [[2017 FIFA Club World Cup|FIFA Club World Cup]]&lt;/ref&gt;||3||35||37
+|-
+!colspan="2"|Total
+!288!!307!!30!!22!!colspan="2"|—!!96!!102!!15!!12!!429!!443
+|-
+!colspan="3"|Career total
+!511!!394!!59!!37!!12!!4!!154!!118!!18!!13!!754!!566
+|}
+
+{{Reflist|group=lower-alpha}}
+
+=== International ===
+
+{{updated|match played on 26 March 2019}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="18"|[[Portugal national football team|Portugal]]
+|2003||2||0
+|-
+|2004||16||7
+|-
+|2005||11||2
+|-
+|2006||14||6
+|-
+|2007||10||5
+|-
+|2008||8||1
+|-
+|2009||7||1
+|-
+|2010||11||3
+|-
+|2011||8||7
+|-
+|2012||13||5
+|-
+|2013||9||10
+|-
+|2014||9||5
+|-
+|2015||5||3
+|-
+|2016||13||13
+|-
+|2017||11||11
+|-
+|2018||7||6
+|-
+|2019||2||0
+|-
+!Total!!156!!85
+|}
+
+== Personal Life ==
+Ronaldo's father, José Aveiro, died of alcohol-related liver disease at age 52 in September 2005 when Ronaldo was 20. Ronaldo said that he does not drink alcohol.&lt;ref&gt;{{Cite web|url=https://www.sportswallah.com/football/features/cristiano-ronaldo-the-tragic-story-behind-the-portugueses-hate-for-alcohol/|title=Cristiano Ronaldo: The tragic story behind the Portuguese's hate for alcohol|date=2018-05-21|language=en-GB|access-date=2019-05-21}}&lt;/ref&gt;
+
+Ronaldo became a father on 17 June 2010 following the birth of his son, named Cristiano. He was born in the [[United States]] through an American surrogate, and Ronaldo announced that he had full custody. Ronaldo has never publicly revealed information about his son's mother, but he says he will reveal it to Cristiano Jr. when he gets older. Ronaldo was in a relationship with Russian model [[Irina Shayk]] from 2010–2015&lt;ref&gt;{{Cite news|url=http://www.ibtimes.com/soccer-star-cristiano-ronaldo-confirms-break-russian-model-girlfriend-irina-shayk-1788274|title=Soccer Star Cristiano Ronaldo Confirms Break Up With Russian Girlfriend Irina Shayk|last=|first=|date=2015-01-20|work=International Business Times|access-date=2018-03-30|archive-url=|archive-date=|dead-url=}}&lt;/ref&gt;. In June 2017, Ronaldo confirmed on [[Facebook]] that he had become the father to twins, Mateo and Eva&lt;ref&gt;{{Cite news|url=https://www.standard.co.uk/news/world/cristiano-ronaldo-announces-he-has-become-father-of-twins-a3576131.html|title=Ronaldo posts first picture of 'two new loves' after birth of twins|work=Evening Standard|access-date=2018-03-30|language=en-GB}}&lt;/ref&gt;. In November 2017, his girlfriend Georgina Rodriguez gave birth to their first daughter, Alana.&lt;ref&gt;{{Cite news|url=https://www.thesun.co.uk/sport/football/4899008/cristiano-ronaldo-georgina-rodriguez-baby-girl-alana-martina/|title=Cristiano Ronaldo's girlfriend Georgina Rodriguez gives birth to baby girl|date=2017-11-12|work=The Sun|access-date=2018-03-30|language=en-GB}}&lt;/ref&gt;
+
+Ronaldo is a [[Catholic Church|Roman Catholic]]. He does not have [[Tattoo|tattoos]] because it would prevent him from [[Blood donation|donating blood]].&lt;ref&gt;{{Cite web|url=https://www.nigerianinfopedia.com/cristiano-ronaldo-true-religion-with-proof/|title=Cristiano Ronaldo True Religion With Proof|last=Chizoba|date=2017-06-26|website=Nigerian Infopedia|language=en-US|access-date=2019-05-21}}&lt;/ref&gt;
+
+He opened his first [[Boutique|fashion boutique]] under the name "CR7" (his initials and shirt number) on his native-born island of [[Madeira]], [[Portugal]] in 2006. In December 2013, Ronaldo opened a museum called Museu CR7, which has all of his trophies from his career.&lt;ref&gt;{{Cite web|url=http://www.goal.com/en/news/1717/editorial/2013/12/16/4482257/in-pictures-cristiano-ronaldos-new-museum|title=Cristiano Ronaldo's new museum in pictures|last=|first=|website=goal.com|language=en|archive-url=|archive-date=|dead-url=|access-date=2018-03-30}}&lt;/ref&gt;
+
+A film about his life and career, titled ''Ronaldo'', was released worldwide on 9 November 2015.&lt;ref&gt;{{Cite news|url=http://cristianoronaldocr7.info/cristiano-ronaldo-body-height-weight-chest-waist-thighs-biceps/|title=Cristiano Ronaldo Body Stats|last=|first=|date=2018-10-20|work=|access-date=2018-10-23|archive-url=|archive-date=|dead-url=|language=en-US}}&lt;/ref&gt;
+
+He also has an airport named after him, [[Cristiano Ronaldo International Airport]].&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/football/2017/mar/29/cristiano-ronaldo-gets-airport-named-in-his-honour-and-a-dubious-bust|title=Cristiano Ronaldo gets airport named in his honour … and a dubious bust|last=Press|first=Associated|date=2017-03-30|work=The Guardian|access-date=2019-05-21|language=en-GB|issn=0261-3077}}&lt;/ref&gt;
+
+&lt;br /&gt;
+
+== Achievements ==
+
+=== Club ===
+
+==== Manchester United ====
+* [[English Premier League]]: 2006–07, 2007–08, 2008–09
+* [[FA Cup]]: 2003–04
+* [[Football League Cup]]: 2005–06, 2008–09
+* [[FA Community Shield]]: 2007
+* [[UEFA Champions League]]: 2007–08
+* [[FIFA Club World Cup]]: 2008
+
+==== Real Madrid ====
+* [[La Liga]]: 2011–12, 2016–17
+* [[Copa del Rey]]: 2010–11, 2013–14
+* [[Supercopa de España]]: 2012, 2017
+* [[UEFA Champions League]]: 2013–14, 2015–16, [[2016–17 UEFA Champions League|2016–17]], 2017-18
+* [[UEFA Super Cup]]: 2014, 2017
+* [[FIFA Club World Cup]]: 2014, 2016, 2017
+
+==== Juventus ====
+* [[Supercoppa Italiana]]: 2019
+*[[Serie A]]: 2018-2019
+
+=== International ===
+
+At the [[2018 FIFA World Cup]] in [[Russia]] he became Europe's all time top goal scorer after scoring his 85th goal in international colors against [[Morocco]]. The goal overtook [[Ferenc Puskás|Puskás]]'s record of 84&lt;ref&gt;https://www.uefa.com/european-qualifiers/news/newsid=2412422.html| Ronaldo breaks Puskás's international record - European Qualifiers - News - UEFA.com&lt;/ref&gt;.
+[[File:Por-Mar (4).jpg|thumb|Cristiano Ronaldo at the 2018 World Cup]]
+
+==== Portugal ====
+* [[UEFA European Championship]]: [[2016 UEFA European Championship|2016]]
+
+=== Individual ===
+* [[Ballon d'Or]]: 2008, 2013, 2014, 2016, 2017
+* [[FIFA World Player of the Year]]: 2008
+* [[The Best FIFA Men's Player]]: 2016, 2017
+* UEFA Best Player in Europe Award: 2014, 2016, 2017
+* UEFA Club Footballer of the Year: 2007–08
+* World Soccer Player of the Year: 2008, 2013, 2014, 2016, 2017
+* [[Onze d'Or]]: 2008, 2016–17
+* FIFPro Special Young Player of the Year: 2003–04, 2004–05
+* Portuguese Player of the Year: 2016, 2017
+* [[European Golden Shoe]]: 2007–08, 2010–11, 2013–14, 2014–15
+* IFFHS World's Best Top Goal Scorer: 2013, 2014, 2016, 2017
+* IFFHS Men's World Team: 2017
+* [[FIFA Puskás Award]]: 2009
+* FIFA FIFPro World XI: 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017
+* UEFA Team of the Year: 2004, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017
+* ESPN World Team of the Decade: 2009
+* FIFA Club World Cup Golden Boot: 2016, 2017
+* FIFA Club World Cup Golden Ball: 2016
+*FIFA Club World Cup Silver Ball: 2008, 2014, 2017
+* FIFA Club World Cup top assist provider: 2014
+* UEFA Champions League Best Forward: 2007–08, 2016–17
+* UEFA Champions League Squad of the Season: 2013–14, 2014–15, 2015–16, 2016–17
+* UEFA Champions League top scorer: 2007–08, 2012–13, 2013–14, 2014–15, 2015–16, 2016–17
+* UEFA Champions League top assist provider: 2013–14
+* UEFA European Championship Team of the Tournament: 2004, 2012, 2016
+* UEFA European Championship top scorer: 2012
+* UEFA European Championship Silver Boot: 2016
+* Manchester United Players' Player of the Year: 2006–07, 2007–08
+* Young Player of the Year: 2006–07
+* Fans' Player of the Year: 2006–07, 2007–08
+* Players' Player of the Year: 2006–07, 2007–08
+* Premier League Team of the Year: 2005–06, 2006–07, 2007–08, 2008–09
+* Premier League Golden Boot: 2007–08
+* Premier League top assist provider: 2006–07
+* FA Cup top goalscorer: 2004–05
+* La Liga Best Player: 2013–14
+* La Liga Best Forward: 2013–14
+* La Liga Best Goal: 2013–14
+* [[La Liga]] Team of the Season: 2013–14, 2014–15, 2015–16
+* [[Pichichi Trophy|La Liga top scorer]]: 2010–11, 2013–14, 2014–15
+* [[Copa del Rey]] top goal scorer: 2010–11
+* Best International Athlete: 2014, 2016
+
+== Other websites ==
+*[http://cristianoronaldocr7.info Cristiano Ronaldo Soccer Star Info]
+* [https://cristianoronaldofan.blogs.sapo.pt Cristiano Ronaldo Portuguese]
+* [http://www.cristianoronaldo.com/ Cristiano Ronaldo Official Website]
+* 
+== References ==
+&lt;references /&gt;{{Portugal Squad 2010 World Cup}}
+
+{{DEFAULTSORT:Ronaldo, Cristiano}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:Manchester United F.C. players]]
+[[Category:Portuguese footballers]]
+__FORCETOC__
+[[Category:UEFA European Championship players]]</text>
+      <sha1>ghrhqh7v32p9juc169lpl141rdp6nt4</sha1>
+    </revision>
+  </page>
+</mediawiki>

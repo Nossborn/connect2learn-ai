@@ -1,0 +1,48 @@
+Ampere
+
+The ampere (; symbol: A), often shortened to "amp", is the base unit of electric current in the International System of Units (SI). It is named after André-Marie Ampère (1775–1836), French mathematician and physicist, considered the father of electrodynamics.
+
+The International System of Units defines the ampere in terms of other base units by measuring the electromagnetic force between electrical conductors carrying electric current. The earlier CGS measurement system had two different definitions of current, one essentially the same as the SI's and the other using electric charge as the base unit, with the unit of charge defined by measuring the force between two charged metal plates. The ampere was then defined as one coulomb of charge per second. In SI, the unit of charge, the coulomb, is defined as the charge carried by one ampere during one second.
+
+New definitions, in terms of invariant constants of nature, specifically the elementary charge, will take effect on 20 May 2019.
+
+SI defines ampere as follows:
+
+The ampere is that constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed one metre apart in vacuum, would produce between these conductors a force equal to newtons per metre of length.
+Ampère's force law states that there is an attractive or repulsive force between two parallel wires carrying an electric current. This force is used in the formal definition of the ampere.
+
+The SI unit of charge, the coulomb, "is the quantity of electricity carried in 1 second by a current of 1 ampere". Conversely, a current of one ampere is one coulomb of charge going past a given point per second:
+In general, charge "Q" is determined by steady current "I" flowing for a time "t" as .
+
+Constant, instantaneous and average current are expressed in amperes (as in "the charging current is 1.2 A") and the charge accumulated, or passed through a circuit over a period of time is expressed in coulombs (as in "the battery charge is "). The relation of the ampere (C/s) to the coulomb is the same as that of the watt (J/s) to the joule.
+
+The ampere was originally defined as one tenth of the unit of electric current in the centimetre–gram–second system of units. That unit, now known as the abampere, was defined as the amount of current that generates a force of two dynes per centimetre of length between two wires one centimetre apart. The size of the unit was chosen so that the units derived from it in the MKSA system would be conveniently sized.
+
+The "international ampere" was an early realization of the ampere, defined as the current that would deposit of silver per second from a silver nitrate solution. Later, more accurate measurements revealed that this current is .
+
+Since power is defined as the product of current and voltage, the ampere can alternatively be expressed in terms of the other units using the relationship I=P/V, and thus 1 ampere equals 1 W/V. Current can be measured by a multimeter, a device that can measure electrical voltage, current, and resistance.
+
+The standard ampere is most accurately realized using a Kibble balance, but is in practice maintained via Ohm's law from the units of electromotive force and resistance, the volt and the ohm, since the latter two can be tied to physical phenomena that are relatively easy to reproduce, the Josephson junction and the quantum Hall effect, respectively.
+
+At present, techniques to establish the realization of an ampere have a relative uncertainty of approximately a few parts in 10, and involve realizations of the watt, the ohm and the volt.
+
+Rather than a definition in terms of the force between two current-carrying wires, it has been proposed that the ampere should be defined in terms of the rate of flow of elementary charges. Since a coulomb is approximately equal to elementary charges (such as those carried by protons, or the negative of those carried by electrons), one ampere is approximately equivalent to elementary charges moving past a boundary in one second. ( is the reciprocal of the value of the elementary charge in coulombs.) The proposed change would define 1 A as being the current in the direction of flow of a particular number of elementary charges per second. In 2005, the International Committee for Weights and Measures (CIPM) agreed to study the proposed change. The new definition was discussed at the 25th General Conference on Weights and Measures (CGPM) in 2014 but for the time being was not adopted.
+
+The current drawn by typical constant-voltage energy distribution systems is usually dictated by the power (watt) consumed by the system and the operating voltage. For this reason the examples given below are grouped by voltage level.
+
+
+
+A typical motor vehicle has a 12 V battery. The various accessories that are powered by the battery might include:
+
+Most Canada, Mexico and United States domestic power suppliers run at 120 V.
+
+Household circuit breakers typically provide a maximum of 15 A or 20 A of current to a given set of outlets.
+
+Most European domestic power supplies run at 230 V, and most Commonwealth domestic power supplies run at 240 V. For the same amount of power (in watts), the current drawn by a particular European or Commonwealth appliance (in Europe or a Commonwealth country) will be less than for an equivalent North American appliance. Typical circuit breakers will provide 16 A.
+
+The current drawn by a number of typical appliances are:
+
+
+
+
+

@@ -1,0 +1,492 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>simplewiki</dbname>
+    <base>https://simple.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.34.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>United States</title>
+    <ns>0</ns>
+    <id>219587</id>
+    <revision>
+      <id>6555766</id>
+      <parentid>6555764</parentid>
+      <timestamp>2019-05-27T08:56:56Z</timestamp>
+      <contributor>
+        <username>Zaxxon0</username>
+        <id>823563</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 3 edits by [[Special:Contributions/188.69.209.123|188.69.209.123]] ([[User talk:188.69.209.123|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Jackchango. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="47980">{{otheruses}}
+{{Infobox country
+| conventional_long_name = United States of America
+| common_name = the United States
+| image_flag = Flag of the United States.svg
+| image_coat = Great Seal of the United States (obverse).svg
+| symbol_type = Great Seal
+| national_motto = &lt;div style="padding-bottom:0.5em;text-align:center;"&gt;"[[In God We Trust]]"{{sfn|George McKenna|2007|p=280}}{{refn|group=fn|{{UnitedStatesCode|36|302}} }}&lt;/div&gt;
+{{collapsible list
+|title=''{{nobold|Other traditional mottos &amp;nbsp;}} ''
+|titlestyle=background:transparent;text-align:center;line-height:1.15em;
+|liststyle=text-align:center;white-space:nowrap;
+|{{Native name|la|"[[E pluribus unum]]"|italics=off}} {{small|(de facto)}}&lt;br /&gt;{{small|"Out of many, one"}}
+|{{Native name|la|"[[Annuit cœptis]]"|italics=off}}&lt;br /&gt;{{small|"[[God|He]] has favored our undertakings"}}
+|{{Native name|la|"[[Novus ordo seclorum]]"|italics=off}}&lt;br /&gt;{{small|"New order of the ages"}}
+}}
+| national_anthem = &lt;br /&gt;"[[The Star-Spangled Banner]]"&lt;div style="display:inline-block;margin-top:0.4em;"&gt;{{center|[[File:Star Spangled Banner instrumental.ogg]]}}&lt;/div&gt;
+| march = {{center|"[[The Stars and Stripes Forever]]"{{sfn|Kidder|Oppenheim|2007|p=91}}&lt;ref name="urluscode.house.gov"&gt;{{cite web |url=http://uscode.house.gov/statviewer.htm?volume=112&amp;page=1263 |title=uscode.house.gov |author= |authorlink= |vauthors= |date=August 12, 1999 |work=Public Law 105-225-Aug. 12, 1998 |publisher=uscode.house.gov |pages=112 Stat. 1263 |language= |quote=Section 304. "The composition by John Philip Sousa entitled "The Stars and Stripes Forever" is the national march." |accessdate=September 10, 2017}}&lt;/ref&gt; }}&lt;div style="display:inline-block;margin-top:0.4em;"&gt;{{center|[[File:March, "The Stars and Stripes Forever" · Colonel John R. Bourgeois, Director · John Philip Sousa · United States Marine Band.ogg]]}}&lt;/div&gt;
+| image_map = USA orthographic.svg &lt;!-- Consensus map, see talk page. --&gt;
+| map_width = 220px
+| alt_map = Projection of North America with the United States in green
+| map_caption = The [[continental United States]] plus [[Alaska]] and [[Hawaii]]
+| image_map2 = US insular areas SVG.svg
+| alt_map2 = The United States and its [[Territories of the United States|territories]]
+| map_caption2 = The United States including its [[Territories of the United States|territories]]
+| capital = [[Washington, D.C.]]&lt;br /&gt;{{small|{{coord|38|53|N|77|01|W|display=inline}}}}
+| largest_city = [[New York City|New York]]&lt;br /&gt;{{small|{{coord|40|43|N|74|00|W|display=inline}}}}
+| official_languages = None at [[Federal government of the United States|federal level]]{{refn|group=fn|English is the [[Official language of the United States|official language]] of 32 states; English and [[Hawaiian language|Hawaiian]] are both official languages in [[Hawaii]], and English and [[Alaska Native languages|20 Indigenous languages]] are official in [[Alaska]]. [[Algonquian languages|Algonquian]], [[Cherokee language|Cherokee]], and [[Sioux language|Sioux]] are among many other official languages in Native-controlled lands throughout the country. [[French language|French]] is a ''de facto'', but unofficial, language in [[Maine]] and [[Louisiana]], while [[New Mexico]] law grants [[Spanish language|Spanish]] a special status.{{sfn|Cobarrubias|1983|p=195}}{{sfn|García|2011|p=167}}}}
+| languages_type = [[National language]]
+| languages = [[General American|English]]&lt;!--- NOTE: Just English, don't add "American English". ---&gt;&lt;ref name="language"&gt;I fem territorier er engelsk sammen med et eller flere indfødte sprog officielle: [[Spansk (sprog)|spansk]] i [[Puerto Rico]], [[Samoansk (sprog)|samoansk]] i [[Amerikansk Samoa]], [[Chamorro (sprog)|chamorro]] i både [[Guam]] og [[Nordmarianerne]]. [[Caroliansk (sprog)|Caroliansk]] er også et officielt sprog i [[Nordmarianerne]].&lt;/ref&gt;
+| ethnic_groups = '''{{small|By race:}}'''&lt;br /&gt;77.1% [[White Americans|White]]&lt;br /&gt;13.3% [[African Americans|Black]]&lt;br /&gt;5.6% [[Asian Americans|Asian]]&lt;br /&gt;2.6% [[Multiracial Americans|Other/multiracial]]&lt;br /&gt;1.2% [[Native Americans in the United States|American Indian]]&lt;br /&gt;0.2% [[Pacific Islands Americans|Pacific Islander]]&lt;br /&gt;'''{{small|Ethnicity:}}'''&lt;br /&gt;17.6% [[Hispanic and Latino Americans|Hispanic or Latino]]&lt;br /&gt;82.4% non-Hispanic or Latino
+| ethnic_groups_year = 2016&lt;ref name="urlU.S. Census Bureau QuickFacts selected: UNITED STATES"&gt;{{cite web |url=https://www.census.gov/quickfacts/fact/table/US/PST045216 |title=U.S. Census Bureau QuickFacts selected: UNITED STATES |date=July 1, 2016 |work=QuickFacts |publisher=U.S. Department of Commerce |accessdate=September 11, 2017}}&lt;/ref&gt;
+| demonym = [[Americans|American]]
+| government_type = [[Federalism|Federal]] [[Presidential system|presidential]] [[constitutional republic]]
+| leader_title1 = [[President of the United States|President]]
+| leader_name1 = {{nowrap|[[Donald Trump]]}}
+| leader_title2 = [[Vice President of the United States|Vice President]]
+| leader_name2 = {{nowrap|[[Mike Pence]]}}
+| leader_title3 = {{nowrap|[[Speaker of the United States House of Representatives|House Speaker]]}}
+| leader_name3 = {{nowrap|[[Nancy Pelosi]]}}
+| leader_title4 = [[Chief Justice of the United States|Chief Justice]]
+| leader_name4 = [[John Roberts]]
+| legislature = [[United States Congress|Congress]]
+| upper_house = [[United States Senate|Senate]]
+| lower_house = [[United States House of Representatives|House of Representatives]]
+| sovereignty_type = &lt;div style="text-align: left;"&gt;[[American Revolution|Independence]] from [[Kingdom of Great Britain|Great Britain]]&lt;/div&gt;
+| established_event1 = [[United States Declaration of Independence|Declaration]]
+| established_date1 = July 4, 1776
+| established_event2 = [[Articles of Confederation|Confederation]]
+| established_date2 = March 1, 1781
+| established_event3 = [[Treaty of Paris (1783)|Treaty of Paris]]
+| established_date3 = September 3, 1783
+| established_event4 = {{nowrap|[[United States Constitution|Constitution]]}}
+| established_date4 = June 21, 1788
+| established_event5 = [[Northern Mariana Islands|Last polity admitted]]
+| established_date5 = March 24, 1976
+| area_label = Total area
+| area_footnote = &lt;ref&gt;Areas of the 50 states and the District of Columbia but not Puerto Rico nor (other) island territories per {{Citation
+| date = August 2010
+| title = State Area Measurements and Internal Point Coordinates
+| publisher = US Census Bureau
+| url = https://www.census.gov/geo/reference/state-area.html
+| accessdate = November 17, 2017
+| quote = reflect base feature updates made in the MAF/TIGER database through August, 2010.}}&lt;/ref&gt;
+| area_rank = 3rd/4th
+| area_sq_mi = 3,796,742
+| percent_water = 6.97
+| area_label2 = Total land area
+| area_data2 = {{convert|3,531,905|sqmi|km2|abbr=on}}
+| population_estimate = 325,719,178&lt;ref name="census1"&gt;{{cite web |url=https://www.census.gov/datasets/2017/demo/popest/nation=total.html |title=Population estimates, July 1, 2017,  (V2017) |publisher=US Census Bureau}}&lt;/ref&gt;
+| population_census = 308,745,538&lt;ref name="PEPANNRES2016"&gt;{{cite web |url=https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=PEP_2016_PEPANNRES&amp;src=pt |title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2016 |publisher=United States Census Bureau |accessdate=July 25, 2017}}  The 2016 estimate is as of July 1, 2016.  The 2010 census is as of April 1, 2010.&lt;/ref&gt;
+| population_estimate_year = 2017
+| population_estimate_rank = 3rd
+| population_census_year = 2010
+| population_census_rank = 3rd
+| population_density_sq_mi = 85&lt;!-- Figures use (population/land area) as of March 2018. --&gt;
+| population_density_rank = 179th
+| GDP_PPP = {{nowrap|$19.390 trillion&lt;!-- End nowrap. --&gt;}}&lt;ref name="imf2"&gt;{{cite web|title=World Economic Outlook Database, April 2018 – Report for Selected Countries and Subjects|url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=55&amp;pr.y=9&amp;sy=2017&amp;ey=2018&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=111&amp;s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC&amp;grp=0&amp;a=|publisher=[[International Monetary Fund]] (IMF)|accessdate=April 1, 2018}}&lt;/ref&gt;
+| GDP_PPP_year = 2017
+| GDP_PPP_rank = 2nd
+| GDP_PPP_per_capita = $59,501&lt;ref name=imf2 /&gt;
+| GDP_PPP_per_capita_rank = 11th
+| GDP_nominal = {{nowrap|$19.390 trillion}}&lt;ref name=imf2 /&gt;
+| GDP_nominal_year = 2017
+| GDP_nominal_rank = 1st
+| GDP_nominal_per_capita = $59,501&lt;ref name=imf2 /&gt;
+| GDP_nominal_per_capita_rank = 7th
+| Gini = 39.0&lt;!-- Number only. --&gt;
+| Gini_year = 2015
+| Gini_change = decrease
+| Gini_ref = &lt;ref&gt;{{cite web |title=OECD Income Distribution Database: Gini, poverty, income, Methods and Concepts |url=http://www.oecd.org/els/soc/income-distribution-database.htm |website=Organisation for Economic Co-operation and Development |accessdate=September 29, 2017}}&lt;/ref&gt;
+| HDI = 0.920&lt;!-- Number only. --&gt;
+| HDI_year = 2015&lt;!-- Please use the year to which the data refers, not the publication year. --&gt;
+| HDI_change = increase&lt;!-- Increase/decrease/steady. --&gt;
+| HDI_ref = &lt;ref name="HDI"&gt;{{cite web |url=http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf |title=2016 Human Development Report |year=2016 |accessdate=March 23, 2017 |publisher=United Nations Development Programme}}&lt;/ref&gt;
+| HDI_rank = 10th
+| currency = [[{{#property:p38}}]] ($)
+| currency_code = USD
+| utc_offset = −4 to −12, +10, +11
+| utc_offset_DST = −4 to −10&lt;ref name="time"&gt;Se [[Tid i USA]] for detajler om lovene om tidszoner i USA.&lt;/ref&gt;
+| date_format = mm/dd/yyyy
+| drives_on = right&lt;ref name="drive"&gt;Bortset fra [[Amerikansk Samoa]] og de [[Amerikanske Jomfruøer]].&lt;/ref&gt;
+| calling_code = [[North American Numbering Plan|+1]]
+| iso3166code = US
+| cctld = [[.us]]
+| religion = 69% [[Christianity|Christian]]&lt;br /&gt;24% [[Irreligion|Unaffiliated]]&lt;br /&gt;3% Unanswered&lt;br /&gt;2% [[Judaism|Jewish]]&lt;br /&gt;1% [[Islam|Muslim]]&lt;br /&gt;1% [[Buddhism|Buddhist]]&lt;br /&gt;1% [[Hinduism|Hindu]]&lt;br /&gt;1% Other
+| religion_year = 2017&lt;ref name="AVA2017"&gt;{{cite magazine |last1=Cox |first1=Daniel |last2=Jones |first2=Ribert P. |title= America’s Changing Religious Identity |url= https://www.prri.org/research/american-religious-landscape-christian-religiously-unaffiliated |work=2016 American Values Atlas |publisher= Public Religion Research Institute |date=June 9, 2017}}&lt;/ref&gt;
+}}
+The '''United States of America''' (often called the '''United States''', the '''U.S.''', the '''USA''', or '''America''') is a [[Federal government|federal]] [[constitutional republic]] made of [[U.S. state|fifty states]] and a [[federal district]]. The [[Continental United States|forty-eight contiguous states]] and [[Washington, D.C.]], the [[Capital districts and territories|capital district]], are in central [[North America]], between the [[Pacific Ocean|Pacific]] and [[Atlantic Ocean]]s. These forty-eight states are bordered by [[Canada]] to the north and [[Mexico]] to the south.
+
+Two states are not next to the other forty-eight states. The state of [[Alaska]] is in the northwest of the continent. Canada is east of Alaska. [[Russia]] is west of Alaska across the [[Bering Strait]]. The state of [[Hawaii]] is an [[archipelago]] in the mid-Pacific.
+
+The United States also owns [[Territories of the United States|several territories]], or [[insular area]]s, in the [[Caribbean]] and Pacific.
+
+The United States is 3.79 million square miles (9.83 million km²). There are about 306 million people living in it. This makes the United States the [[List of countries and outlying territories by total area|third or fourth]] largest country by total area, and third largest by land area and [[List of countries by population|by population]]. The United States is one of the world's most [[Multiethnic society|ethnically diverse]] and [[Multiculturalism|multicultural]] nations. This is because of large-scale [[Immigration to the United States|immigration from many countries]].&lt;ref name="DD"&gt;{{cite book| last1 = Adams| first1 = J.Q.| last2 = Strother-Adams| first2 = Pearlie| title = Dealing with Diversity: The Anthology| year = 2001| publisher = Kendall/Hunt Publishing Company| isbn = 978-0-7872-8145-8 }}&lt;/ref&gt; The [[Economy of the United States|U.S. economy]] is the largest national economy in the world, with an estimated 2016 [[gross domestic product]] (GDP) of [[United States dollar|US$]] 18.57 trillion (23% of the world total based on nominal GDP and almost 21% at [[purchasing power parity]]).&lt;ref name="IMF GDP"&gt;{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2008/02/weodata/index.aspx|title=World Economic Outlook Database |publisher= International Monetary Fund |accessdate= 2008-10-27 |date= October 2008}}&lt;/ref&gt;&lt;ref&gt;The [[European Union]] has a larger collective economy, but is not a single nation.&lt;/ref&gt;
+
+The nation was founded by [[Thirteen Colonies|thirteen colonies]] of [[Kingdom of Great Britain|Great Britain]], which was along the [[East Coast of the United States|Atlantic seaboard]]. On July 4, 1776, they issued the [[United States Declaration of Independence|Declaration of Independence]], which stated their independence from Britain and their formation of a cooperative union. The rebellious states defeated Great Britain in the [[American Revolutionary War]], the first successful [[History of colonialism|colonial war of independence]].&lt;ref&gt;{{cite book| last1 = Greene| first1 = Jack P.| last2 = Pole| first2 = J.R.| title = A Companion to the American Revolution| year = 2003| publisher = Blackwell Publishing| isbn = 978-1-4051-1674-9| page = 352 }}&lt;/ref&gt; The [[Philadelphia Convention]] adopted the current [[United States Constitution]] on September 17, 1787; its ratification the following year made the states part of a single republic with a strong central government. The [[United States Bill of Rights|Bill of Rights]], comprising ten [[List of amendments to the United States Constitution|constitutional amendments]] guaranteeing many fundamental civil rights and freedoms, was ratified in 1791.
+
+In the 19th century, the United States acquired land from [[Louisiana Purchase|France]], [[Adams-Onís Treaty|Spain]], the [[Oregon Country|United Kingdom]], [[Mexican–American War|Mexico]], and [[Alaska purchase|Russia]], and [[Texas Annexation|annexed]] the [[Republic of Texas]] and the [[Republic of Hawaii]]. Disputes between the [[Southern United States|agrarian South]] and [[Northern United States|industrial North]] over [[states' rights]] and the expansion of the [[Slavery in the United States|institution of slavery]] provoked the [[American Civil War]] of the 1860s. The North's victory prevented a permanent split of the country and led to the [[Thirteenth Amendment to the United States Constitution|end of legal slavery]] in the United States. By the 1870s, the national economy was the world's largest. The [[Spanish–American War]] and [[World War I]] confirmed the country's status as a military power. In 1945, the United States emerged from [[World War II]] as the [[Nuclear weapons and the United States|first country with nuclear weapons]], a permanent member of the [[United Nations Security Council]], and a founding member of [[NATO]]. The end of the [[Cold War]] left the United States as the sole [[superpower]]. The country accounts for [[List of countries by military expenditures|approximately 50% of global military spending]] and is the leading economic, political, and cultural force in the world.&lt;ref&gt;{{cite web|url=http://www.foreignaffairs.org/20040701faessay83406/eliot-a-cohen/history-and-the-hyperpower.html|title=History and the Hyperpower|author=Cohen, Eliot A.|date=July/August 2004|work=Foreign Affairs|accessdate=2006-07-14}} {{cite news|url=http://news.bbc.co.uk/2/hi/americas/country_profiles/1217752.stm|title=Country Profile: United States of America|date=2008-04-22|publisher=BBC News|accessdate=2008-05-18}}&lt;/ref&gt;
+
+== History ==
+{{Main|History of the United States}}
+=== Foundation ===
+The official date of the founding of the United States is [[July 4]], [[1776]], when the second Continental Congress, representing the 13 British secessionists colonies, signed the [[Declaration of Independence]]. However, the structure of the Government had a big change in [[1788]] when the [[Articles of Confederation]] were replaced by the [[Constitution of the United States]]. The date on which each state adopted the Constitution tends to be taken as the date on which the state became part of the Union.
+
+=== Civil War (1861–65) ===
+{{main|American Civil War}}
+As the nation gained new territory, it was divided on the subject of [[slavery]]. The northern states of the country opposed the slavery of [[African-Americans|African Americans]] and many of them had already been abolished. The southern states of the country said they needed slaves. The [[economy]] of the north grew industrially, while the south was growing on an agricultural basis. Following this division of economy and politics, the southern states decided to create a new independent nation, propitiating the beginning of the war by the northern states who did not recognize the right of secession. After the [[American Civil War|Civil War]] between the [[Confederate States of America|Confederate States]] (south) and the Union (north), slavery was abolished throughout the American territory.
+
+=== 20th century ===
+After the [[Spanish–American War]] in [[1898]], the United States was slowly acquiring an ever-increasing influence in the world. After the [[World War I|first World War]], and then the [[World War II|second]], American influence on aspects such as [[economics]], [[science]], [[technology]], and culture grew to new levels. Because of the [[Cold War]] and the political, ideological and social controversy that resulted, the role of military and international affairs grew in politics at that time. Important events were also held at that time, such as the [[civil rights movement]] in the 1960s, and the landing of [[Apollo 11]] on the [[Moon]] in [[1969]].
+
+=== Modern history ===
+{{seealso|September 11 attacks|War in Afghanistan (2001–present)|Iraq War|Great Recession|International military intervention against ISIL}}
+[[File:September 11 2001 just collapsed.jpg|thumb|180px|A large cloud of dust surrounds the city of New York after the collapse of the Twin Towers after the terrorist attack of September 11, 2001.]]
+Under President [[George H. W. Bush]], the country took on a global dominant role worldwide, as in the [[Gulf War]] (1991). The longest economic expansion in modern American history, from March 1991 to March 2001, spanned the presidency of [[Bill Clinton]] and the [[dot-com bubble]].&lt;ref&gt;{{Cite web|url=http://iwin.iwd.state.ia.us/iowa/ArticleReader?itemid=00003700&amp;print=1|title=IWIN - Why the Expansion of the 1990's Lasted So Long|last=Voyce|first=Bill|date=2006|website=State.ia.us|archive-url=https://web.archive.org/web/20061006020321/http://iwin.iwd.state.ia.us/iowa/ArticleReader?itemid=00003700&amp;print=1|archive-date=October 6, 2006|access-date=May 15, 2019}}&lt;/ref&gt; A civil lawsuit and a [[Monica Lewinsky|sex scandal]] led to his [[impeachment]] in 1998, although he managed to finish his period. The [[2000 United States presidential election|2000 presidential elections]], one of the most competitive in American history, they were settled by the [[Supreme Court of the United States|Supreme Court]]: [[George W. Bush]], son of George H. W. Bush, became president, even though he gained fewer votes than his opponent [[Al Gore]].&lt;ref&gt;{{Cite book|title=36 Days: The Complete Chronicle of the 2000 Presidential Election Crisis|last=Brinkley|first=Douglas|publisher=Times Books|year=2001|isbn=0-8050-6850-3}}&lt;/ref&gt;
+
+On September 11, 2001, the terrorists of the [[Al-Qaeda]] group attacked the twin towers of the [[World Trade Center (1973–2001)|World Trade Center]] in [[New York City]] (which were destroyed) and [[the Pentagon]] near [[Washington, D.C.]], in a series of attacks that ended the life of nearly three thousand people. In response, the Bush administration launched the "[[War on Terror]]." At the end of 2001, U.S. forces [[United States invasion of Afghanistan|invaded Afghanistan]], toppled the [[Taliban]] government and destroyed Al-Qaeda's training camps. Taliban insurgents continue to fight a [[guerrilla war]]. In 2002, Bush began to push for a regime change to take place in [[Iraq]].&lt;ref&gt;{{Cite web|url=http://www.usatoday.com/news/world/2003-02-14-eu-survey.htm|title=Many Europeans Oppose War in Iraq|date=2003|website=USA Today.com|access-date=May 11, 2019}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.cer.org.uk/pdf/back_brief_springford_dec03.pdf|title=Old and "New" Europeans United: Public Attitudes Towards the Iraq War and US Foreign Policy|last=Springford|first=John|date=2003|website=web.archive.org|archive-url=https://web.archive.org/web/20040328182510/http://www.cer.org.uk/pdf/back_brief_springford_dec03.pdf|archive-date=March 28, 2004|access-date=May 11, 2019}}&lt;/ref&gt; With NATO's lack of support and without a clear UN order for military intervention, Bush organized the [[coalition of the willing]]; The coalition forces quickly [[2003 invasion of Iraq|invaded Iraq]] in 2003 and toppled the statue of dictator [[Saddam Hussein]]. The following year, Bush was re-elected as the most voted president in an [[2004 United States presidential election|election]].
+
+In 2005, [[Hurricane Katrina]], which would end up being the deadliest natural disaster in national history, caused severe destruction along the Gulf Coast: the city of [[New Orleans]] was devastated, with 1833 dead.&lt;ref&gt;{{Cite web|url=http://sectorproductivo.com.py/otras-secciones/noticias/ultimo-momento/3948-mas-de-us-125-mil-millones-se-pagaron-por-danos-naturales|title=Más de US$ 125 mil millones se pagaron por daños naturales|date=May 25, 2019|website=Sector Productivo.com.py|archive-url=https://web.archive.org/web/20111010231356/http://sectorproductivo.com.py/otras-secciones/noticias/ultimo-momento/3948-mas-de-us-125-mil-millones-se-pagaron-por-danos-naturales|archive-date=October 10, 2011|language=es}}&lt;/ref&gt;
+
+[[File:ObamaTrump.jpg|thumb|170px|President [[Donald Trump]] with his predecessor [[Barack Obama]], the first African American president.]]
+On November 4, 2008, during a [[Great Recession|global economic downturn]], [[Barack Obama]] was elected president, having been the first African American to take office. In May 2011, American Special forces managed to kill [[Osama bin Laden]], hiding in Pakistan. The following year, Barack Obama was re-elected. Under his second term, he led the [[International military intervention against ISIL|war against the Islamic State]] and restored diplomatic relations with Cuba.
+
+On November 8, 2016, the [[Republican Party (United States)|Republican Party]] leader [[Donald Trump]] defeated former First Lady [[Hillary Clinton]] for presidency in an unusual election and whose plans have been described by political analysts as populist, protectionist and nationalist, assuming office on January 20, 2017.&lt;ref&gt;{{Cite web|url=https://www.elespanol.com/mundo/america/eeuu/20161109/169483152_0.html|title=Trump gana las elecciones de Estados Unidos y promete gobernar para todos|last=Gallego Espina|first=José|last2=Jorrín|first2=Javier G.|date=November 9, 2016|website=El Español|language=es-ES|access-date=May 20, 2019}}&lt;/ref&gt;
+
+The massacres in [[Orlando nightclub shooting|Orlando]] of June 12, 2016 at the gay disco ''Pulse'' (51 dead) and in [[2017 Las Vegas shooting|Las Vegas]] on October 1, 2017 (60) are listed as the largest massacres in the country since 9/11.&lt;ref&gt;{{Cite web|url=http://internacional.elpais.com/internacional/2016/06/12/actualidad/1465717811_688793.html|title=50 muertos en la peor matanza en EE UU desde el 11-S|date=May 25, 2019|publisher=El País|language=es}}&lt;/ref&gt;
+
+== Government ==
+{{main|Federal government of the United States}}
+The United States is a [[Federalism|federal]] [[republic]]. The [[federal government of the United States]] is set up by the [[United States Constitution|Constitution]]. There are three branches. They are the ''[[executive branch]]'', the ''[[legislative branch]]'', and the ''[[judicial branch]]''. State governments and the federal government work in very similar ways. Each state has its own executive, legislative, and judicial branches. The executive branch of a state government is led by a [[governor]], instead of a president.
+
+===Executive branch===
+The [[executive branch]] is the part of the government that enforces the law.  Members of the [[U.S. Electoral College]] elect a [[President of the United States|president]] who is the leader of the executive branch, as well as the leader of the [[armed forces]]. The president may [[veto]] a bill that the Congress has passed, so it does not become a law. The President may also make "executive orders" to ensure that people follow the law.
+
+The president is in charge of many departments that control much of the day-to-day actions of government. For example, [[Department of Commerce]] makes rules about trade.  The president chooses the heads of these departments, and also nominates federal judges.  However, the [[Senate]], part of the legislative branch, must agree with all of the people the president chooses. The president may serve two 4-year terms.
+
+===Legislative branch===
+[[File:USCapitol.jpg|thumb|right|The west side of the [[United States Capitol]], which is home to the [[United States Congress]]]]
+The [[legislative branch]] makes laws. The legislative branch is called the [[United States Congress]]. Congress is divided into two "houses".
+
+One house is the [[United States House of Representatives|House of Representatives]].  The Representatives are each elected by voters from a set area within a state.  The number of Representatives a state has is based on how many people live there.  Representatives serve two-year terms. The total number of representatives today is 435. The leader of the House of Representatives is the [[Speaker of the House]].
+
+The other house is the [[United States Senate|Senate]]. In the Senate, each state is represented equally, by two senators. Because there are 50 states, there are 100 senators.  The President's [[treaty|treaties]] or appointments of [[official]]s need the Senate's approval. Senators serve six-year terms. The Vice President of the United States serves as president of the Senate.  In practice, the vice president is usually absent from the Senate, and a senator serves as president [[pro tempore]], or [[wikt:temporary|temporary]] president, of the Senate.
+
+Representatives and senators [[proposal|propose]] laws, called "[[bill (law)|bill]]s", in their respective houses. A bill may be voted upon by the entire house right away or may first go to a small group, known as a [[committees of the United States Senate|committee]], which may recommend a bill for a vote by the whole house. If one house votes to pass a bill, the bill then gets sent to the other house; if both houses vote for it, it is then sent to the president, who may sign the bill into law or [[veto]] it. If the president vetoes the bill, it is sent back to Congress. If Congress votes again and passes the bill with at least a two-thirds [[majority]], the bill becomes law and cannot be vetoed by the president.
+
+Under the American system of [[federalism]], Congress may not make laws that directly control the states; instead, Congress may use the promise of federal funds, or special circumstances such as national [[emergency|emergencies]], to encourage the states to follow federal law. This system is both complex and unique.
+
+===Judicial branch===
+The [[judicial branch]] is the part of government that interprets what the law means. The Judicial Branch is made up of the [[Supreme Court of the United States|Supreme Court]] and many lower courts. If the Supreme Court decides that a law is not allowed by [[Constitution|the Constitution]], the law is said to be "struck down" and is no longer a [[validity|valid]] law.
+
+The Supreme Court is made up of nine [[judge]]s, called justices, who are nominated by the President and confirmed by the Senate. One of these justices, called the [[Chief Justice of the United States|chief justice]], heads the court. A Supreme Court justice serves until he or she dies or [[resignation|resigns]] (quits in the middle of his or her term). When that happens, the president nominates someone new to replace the justice who left. If the Senate agrees with that choice, the person becomes a justice. If the Senate does not agree with the president's choice, then the president must nominate someone else.
+
+Famous court cases such as ''[[Marbury v. Madison|Marbury v Madison]]'' (which was decided in 1803) have firmly established that the Supreme Court is the [[Interpreter|ultimate interpreter]] of the [[United States Constitution]] and has the power to strike down any law that [[conflict]]s with it.&lt;ref&gt;[http://www.landmarkcases.org/marbury/home.html Street Law, Inc]&lt;/ref&gt;
+
+==Politics==
+{{see also|States of the United States|Politics of the United States}}
+[[File:Political System of the United States.svg|thumb|The political system of the United States]]
+The United States of America consists of [[States of the United States|50 state]]s, 5 territories and 1 district ([[Washington D.C]].). States can make laws about things inside the state, but federal law is about things dealing with more than one state or dealing with other countries. In some areas, if the federal government makes laws that say different things from the state laws, people must follow the federal law because the state law is not a law any more. Each state has a constitution of its own, different from the federal (national) Constitution. Each of these is like the federal Constitution because they say how each state's government is set up, but some also talk about specific laws.
+
+The federal and most state governments are dominated by two [[Political party|political parties]]: the [[United States Republican Party|Republicans]] and the [[United States Democratic Party|Democrats]]. There are many smaller parties; the largest of these are the [[Libertarian Party (United States)|Libertarian Party]] and the [[Green Party (United States)|Green Party]]. People help in political [[campaign]]s that they like. They try to persuade politicians to help them; this is called [[lobbying]]. All Americans are allowed to do these things, but some have and spend more money than others, or in other ways do more in politics. Some people think this is a problem, and lobby for rules to be made to change it.
+
+Since 2017, the president is a Republican, and Congress is also Republican-controlled, so the Republicans have more power in the federal government.  There are still many powerful Democrats who can try to stop the Republicans from doing things that they believe will be bad for the country. Also, members of a party in power do not always agree on what to do. If enough people decide to vote against Republicans in the next election, they will lose power. In a republic like the United States, no party can do whatever they want. All politicians have to argue, compromise, and make deals with each other to get things done. They have to answer to the people and take responsibility for their mistakes.
+
+The USA's large [[Culture|cultural]], economic, and military influence has made the [[foreign policy of the United States]], or relations with other countries, a topic in American politics, and the politics of many other countries.
+
+[[File:GeorgeWashington.jpg|thumb|[[George Washington]], [[List of Presidents of the United States|first President]]]]
+
+==Geography==
+{{main|Geography of the United States}}
+The United States is the fourth biggest country in the world by land [[area]]. Only [[Russia]], [[Canada]] and [[China]] are bigger. The U.S's [[geography]] varies a lot and includes:
+* [[forest]]s and grass fields on the [[East Coast of the United States|east coast]]
+* the [[Appalachian Mountains]] in the east
+* the [[Great Plains]] in the middle of the country
+* the [[Mississippi River|Mississippi]]-[[Missouri River|Missouri]] river in the middle of the country
+* the [[Rocky Mountains]] west of the [[plain]]s
+* [[desert]]s and coastal areas west of the Rocky Mountains
+* [[forest]]s in the [[Pacific Northwest]]
+* [[Arctic]] regions of Alaska
+* [[volcano|volcanic]] islands in Hawaii
+* a long [[coastline]] with many [[beach]]es
+* the [[everglades]] in [[Florida]]
+The [[climate]] varies along with the geography, from [[tropical]] (hot and wet in [[summer]], warm and dry in [[winter]]) in [[Florida]] to [[tundra]] (cold all year) in Alaska. Large parts of the country have warm summers and cold winters. Some parts of the United States, like parts of California, have a [[Mediterranean climate]].
+===States===
+{{see also|List of U.S. states}}
+
+The United States [[Military conquest|conquered]] and [[Purchase|bought]] new lands over time, and grew from the original 13 colonies in the east to the current 50 states, of which 48 of them are [[Contigny|joined together]] to make up the [[Continental United States|contiguous United States]]. These states, called the "lower 48", can all be reached by [[road]] without crossing a [[border]] into another country. They go from the Atlantic east to the [[Pacific Coast|Pacific]] in the west. There are two other states which are not joined to the lower 48 states. [[Alaska]] can be reached by passing through [[British Columbia]] and the [[Yukon]], both of which are part of Canada. [[Hawaii]] is located in the middle of the Pacific Ocean and is so far from the rest of the US that it can only be reached by [[airplane]].
+
+[[Washington, D.C.]], the national capital, is a [[federal district]] that was split from the states of [[Maryland]] and [[Virginia]] in 1791. Not part of any US state, it used to be in the shape of a [[square]], with the land west of the [[Potomac River]] coming from Virginia, and the land east of the river coming from Maryland. In 1846, Virginia took back its part of the land. Some people living in DC want it to become a state, or for Maryland to take back its land, so that they can have the [[right to vote]] in Congress.
+
+===Territories and possessions===
+The United States consists of sixteen lands that are not states, many of which are [[Colony|colonial]] [[Territory|territories]]. None of them have any land [[border]]s with the rest of the US. People live in five of these places, which are ''[[de facto]]'' American:
+* [[Puerto Rico]]
+* [[American Samoa]]
+* [[Guam]]
+* [[U.S. Virgin Islands]]
+* [[Northern Mariana Islands]]
+
+The [[Philippines]] was a [[possession]] of the United States. [[Palau]], the [[Federated States of Micronesia]], and other [[Pacific Islands|Pacific island]] nations were governed by the United States as a United Nations "Trust Territory". All of these places have become [[independence|independent]]: the Philippines in 1946, Palau in 1947, and Micronesia in 1986.
+
+The [[U.S. armed forces]] has [[Military base|base]]s in many countries, and the [[U.S. Navy]]'s base at [[Guantanamo Bay]] was rented from [[Cuba]] after that country had a [[Communist]] revolution.
+
+===Counties and cities===
+{{see also|List of United States cities by population}}
+All the states are divided into [[Administrative division|administrative subdivisions]]. Most of them are called [[County|counties]], but [[Louisiana]] uses the word "[[List of parishes in Louisiana|parish]]," and [[Alaska]] uses the word "[[borough]]."
+
+There are many [[City|cities]] in the United States. One city in each state is the [[List of U.S. state capitals|state capital]], where the government of the state meets and the [[governor]] works. This city is not always the largest in its state. For example, the city with the most people living in it is [[New York City]] in [[New York (state)|New York State]], but the state capital is [[Albany, New York|Albany]]. Some other big cities are [[Los Angeles]], [[California]]; [[Chicago]], [[Illinois]]; [[Seattle]], [[Washington (state)|Washington]]; [[Miami]], [[Florida]]; [[Indianapolis]], [[Indiana]]; [[Las Vegas]], [[Nevada]]; [[Houston]] and [[Dallas]], [[Texas]]; [[Philadelphia]] and [[Pittsburgh]], [[Pennsylvania]]; [[Boston]], [[Massachusetts]]; [[Denver]], [[Colorado]]; [[St. Louis]], [[Missouri]] and [[Detroit|Detroit, Michigan]].
+
+==Economy==
+The United States has a [[capitalist]] [[economy]]. The country has rich [[mineral]] [[Natural resource|resource]]s, with many [[gold]], [[coal]] and [[uranium]] deposits. [[Farming]] makes the country among the top producers of, among others, [[corn]] ([[maize]]), [[wheat]], [[sugar]], and [[tobacco]]. America produces [[Automobile|car]]s, [[airplane]]s, and [[electronics]]. About 3/4 of Americans work in the [[service industry]].
+
+The top 15 trading partners in terms of total trade are:
+
+{| class="wikitable sortable"
+|-
+! Country
+|-
+| [[Canada]]
+|-
+| [[China]]
+|-
+| [[Mexico]]
+|-
+| [[Japan]]
+|-
+| [[Germany]]
+|-
+| [[UK]]
+|-
+| [[South Korea]]
+|-
+| [[France]]
+|-
+| [[Taiwan]]
+|-
+| [[Netherlands]]
+|-
+| [[Brazil]]
+|-
+| [[Malaysia]]
+|-
+| [[Italy]]
+|-
+| [[Singapore]]
+|-
+| [[Ireland]]
+|}
+#
+
+==Demographics==
+{{USCensusPop
+| 1790=3929000
+| 1800=5308000
+| 1810=7240000
+| 1820=9638000
+| 1830=12866000
+| 1840=17063000
+| 1850=23192000
+| 1860=31443321
+| 1870=38558371
+| 1880=50189209
+| 1890=62979766
+| 1900=76212168
+| 1910=92228531
+| 1920=106021568
+| 1930=123202660
+| 1940=132164569
+| 1950=151325798
+| 1960=179323175
+| 1970=203211926
+| 1980=226545805
+| 1990=248709873
+| 2000=281421906
+| 2010=308745538
+| footnote=}}
+The United States of America has people of many different [[race (sociology)|race]] and [[ethnic group|ethnic]] backgrounds. 80% of the people in the United States [[:wikt:descend|descend]] from [[Europe]]an [[immigration|immigrants]]. Many people are descended from [[Germany]], [[England]], [[Scotland]], [[Ireland]], [[Africa]], and [[Italy]].&lt;ref&gt;[http://www.geolytics.com/?gclid=CK7Nw9bgpJYCFRJ4xgod32jc5g Demographic Data, US Census &amp; GIS Software &amp;#124; GeoLytics]&lt;/ref&gt;  13% of the people in the United States are [[African-American]]. Most of them descend from the [[slave trade|African slaves that were brought to America]]. [[Asian]]-Americans make up only 5% of the population in America but make up a bigger portion in the west coast. For example, in [[California]], Asian-Americans make up 13% of the population of that state. [[Hispanic]]-Americans or people of Latin origins make up 15% of the nation. The original peoples, called [[Native American]], American Indians, or Amerindians and [[Inuit]] ([[Eskimo]]s) are a very small group.
+
+11% of the people in the United States are foreign born. 18% speak a language other than English at home. For people 25 and older, 80% are [[high school]] [[graduation|graduates]] while 25% have a [[bachelor's degree]] or higher.
+
+The 2000 Census counted self-reported [[ancestor|ancestry]]. It identified 43 million German-Americans, 30.5 million Irish-Americans, 24.9 million African-Americans, 24.5 million English-Americans, and 18.4 million Mexican-Americans.
+
+=== Money ===
+The [[social]] [[structure]] of the United States has a big range. This means that some Americans are much, much richer than others. The [[average]] ([[median]]) [[income]] for an American was $37,000 a year in 2002. However, the [[wealthy|richest]] 1% of Americans have as much money as the [[poor]]est 90%. 51% of all households have access to a [[computer]] and 41% had access to the [[Internet]] in 2000, a figure which had grown to 75% in 2004. Also, 67.9% of American families owned their homes in 2002.  There are 200 million cars in the United States, two for every three Americans. The debt has grown to over $21,000,000,000,000.
+
+=== Religion ===
+There are many different [[religion]]s in the U.S.  [[Statistics|Statistically]], the largest religion is [[Christianity]], including groups such as [[Catholicism]], [[Protestantism]] and [[Mormonism]]. Other religions include [[Hinduism]], [[Islam]], [[Judaism]], [[Unitarian Universalism]], [[Wicca]], [[Druidry]], [[Baha'i]], [[Raelism]], [[Zoroastrianism]], [[Taoism]] and [[Jainism]].&lt;ref&gt;Media, Minorities, and Meaning: A Critical Introduction - Page 88, Debra L. Merskin - 2010&lt;/ref&gt; Religions which were founded within the United States include [[Eckankar]], [[Satanism]] and [[Scientology]].  [[Native American mythology|Native American religion]]s have various [[animism|animistic]] beliefs.
+
+The United States is one of the most [[religious]] countries in the [[Western World]], and most Americans believe in [[God]]. The number of Christians in the U.S. has gone down. 86.2% called themselves Christian in 1990 and 78.4% said this in 2007. The others include Judaism (2.3%), Islam (0.8%), [[Buddhism]] (0.7%), Hinduism (0.4%), and Unitarian Universalism (0.3%). Those who have no religion are at 16.1%. There is a large difference between those who say that they belong to a religion and those who are members of a religious body of that religion.&lt;ref&gt;[http://religions.pewforum.org/pdf/affiliations-all-traditions.pdf Religion in America: U.S. Religious Data, Demographics and Statistics &amp;#124; Pew Research Center]&lt;/ref&gt;
+
+Doubts about the existence of a God, gods or goddesses are higher among young people.&lt;ref&gt;Merica, Dan (2012-06-12). Pew Survey: Doubt of God Growing Quickly among Millennials&lt;/ref&gt; Among the non-religious population of the U.S., there are [[deist]]s, [[humanist]]s, [[Ignosticism|ignotic]], [[atheist]]s, and [[agnostic]]s.&lt;ref&gt;Kosmin, Barry; Keysar, Ariela (2009). "[https://commons.trincoll.edu/aris/files/2011/08/NONES_08.pdf American Nones: The Profile of the No Religion Population]" (PDF). Trinity Colloge.&lt;/ref&gt;
+
+===Languages===
+{| class="wikitable" style="border:1px black; float:right; margin-left:1em;"
+|-
+! style="background:#f99;" colspan="2"|Languages (2007)
+|-
+|English||225.5 million
+|-
+|Spanish, incl. [[Spanish-based creole languages|Creole]]||34.5 million
+|-
+|Chinese||2.5 million
+|-
+|French, incl. [[French-based creole languages|Creole]]||2.0 million
+|-
+|[[Tagalog language|Tagalog]]||1.5 million
+|-
+|[[Vietnamese language|Vietnamese]]||1.2 million
+|-
+|German||1.1 million
+|-
+|Korean||1.1 million
+|-
+|Arabic
+|0.3 million
+|}
+
+The United States does not have an official [[language]], the [[United States Congress]] has considered officially designating [[English language|English]] as such for many years,&lt;ref&gt;{{cite web|url=http://geography.about.com/od/unitedstatesofamerica/a/unitedstatesfacts.htm|title=United States Facts - Ten Interesting and Unusual United States Facts|publisher=Geography|accessdate=9 August 2013}}&lt;/ref&gt; since it is the most used language, and the language in which the [[United States Declaration of Independence]] and [[United States Constitution]] are written. 38 states out of 50 have English as the official language. [[Spanish language|Spanish]] has increased in usage in certain sectors of society, due to a flow of immigrants—especially from Mexico and Cuba. French is also a main language in parts of [[Louisiana]] because [[France]] once owned the area as a colony.
+
+==Culture==
+American [[popular culture]] goes out to many places in the world. It has a large [[influence]] on most of the world, especially the [[Western hemisphere|Western]] world. American [[music]] is heard all over the world, and American movies and [[television]] shows can be seen in most countries.
+
+=== Federal holidays ===
+&lt;ref&gt;{{cite web |url=http://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/#url=2014 |title=2014 Federal Holidays |publisher=U.S Office of Personnel Management |accessdate=26 January 2014}}&lt;/ref&gt;
+{| class="wikitable"
+|-
+!width=150| Date
+! Name
+! Description
+|-
+| [[January 1]]
+| [[New Year's Day]]
+| Celebrates the beginning of the year
+|-
+| 3rd Monday in January
+| [[Martin Luther King, Jr.]] Day
+| Honors Dr. Martin Luther King, Jr., an [[African-American]] [[civil rights]] leader
+|-
+| 3rd Monday in February
+| [[President's Day]]
+| Honors all of the American presidents, but specifically [[George Washington]] (b. February 22) and [[Abraham Lincoln]] (b. February 12)
+|-
+| Last Monday in May
+| [[Memorial Day]]
+| Honors military servicemen, who gave their lives, also marks the traditional start of [[summer]]
+|-
+| [[July 4]]
+| [[US Independence Day|Independence Day]]
+| Celebrates the [[United States Declaration of Independence|Declaration of Independence]]; otherwise known as "The Fourth of July"
+|-
+| 1st Monday in September
+| [[Labor Day]]
+| Celebrates the achievements of workers, and marks the traditional end of summer
+|-
+| 2nd Monday in October
+| [[Columbus Day]]
+| Honors [[Christopher Columbus]], the man who discovered [[the Americas]] for [[Europe]] (not celebrated in some states, like [[Montana]])
+|-
+| [[November 11]]
+| [[Veterans Day]]
+| Honors all [[military]] servicemen (past and present)
+|-
+| 4th Thursday in November
+| [[Thanksgiving]]
+| The [[autumn]] [[harvest]], and marks the [[tradition]]al beginning of the "holiday season"
+|-
+| [[December 25]]
+| [[Christmas]]
+| Celebrates the [[birth]] of [[Jesus Christ]] (non-[[Christian]]s celebrate it as a [[winter]] holiday)
+|}
+
+===Flag===
+The American [[flag]] is made up of 50 stars on a blue background, and has 13 stripes, seven red and six white. It is one of many symbols of the United States like the [[Bald Eagle]]. The 50 stars represent the 50 states. The red stands for [[courage]]. The blue stands for justice. The white represents peace and cleanliness. The 13 stripes represent the [[Thirteen Colonies|13 original colonies.]]&lt;ref&gt;USA Flag Meaning. 2009 Retrieved from http://www.mapsofworld.com/usa/usa-flag/usa-flag-meaning.html on 16th of September 2010&lt;/ref&gt;
+[[File:Flag of the United States.svg|thumb|The US Flag]]
+
+==References==
+{{Reflist|group=fn}}
+
+== References ==
+{{reflist|2}}
+
+==Other websites==
+{{Commons|United States}}
+{{Wikivoyage|United States of America}}
+
+===Government===
+* [http://www.geocities.com/johnfkosanke/USConstitutionBasic.html US Constitution in basic English]
+* [http://www.usa.gov Official website of the United States government] - Gateway to governmental sites
+* [http://www.whitehouse.gov The White House] - Official site of the Presidential residence
+* [http://www.senate.gov Senate.gov] - Official site of the United States Senate
+* [http://www.house.gov House.gov] - Official site of the United States House of Representatives
+* [http://www.supremecourt.gov SCOTUS] - Official site of the Supreme Court of the United States
+* [http://usinfo.state.gov/usa/infousa/facts/factover/homepage.htm Portrait of the USA] - Published by the United States Information Agency, September 1997.
+* [https://www.census.gov/hhes/www/ US Census Housing and Economic Statistics] Updated regularly by US Bureau of the Census.
+* [https://www.cia.gov/library/publications/the-world-factbook/geos/us.html CIA World Factbook]
+* https://www.state.gov/ Official website of the United States Department of State
+
+===Other===
+* [http://www.religioustolerance.org/nat_mott.htm National Motto: History and Constitutionality]
+* [http://www.nationalcenter.org/HistoricalDocuments.html Historical Documents]
+* [http://www.travel-directory.org/Destinations/North_America/United_States/index.html Reference: US specific web resources sorted by state]
+* [http://www.dinksoftware.com/geography_trainer_us_states.php Geography Trainer US States 1.1 game]
+* [http://en.citizendium.org/wiki/United_States_of_America United States of America] - Citizendium
+* [https://www.visittheusa.co.uk/ Visit The USA] - The Official Travel Site of the USA
+
+{{United States topics}}
+{{United States}}
+{{North America}}
+{{G8}}
+{{North Atlantic Treaty Organisation (NATO)}}
+
+{{Use American English}}
+
+[[Category:United States| ]]
+[[Category:English-speaking countries]]
+[[Category:G8 nations]]
+[[Category:Federations]]
+[[Category:1776 establishments in North America]]</text>
+      <sha1>8rwsw852kzdvg2l5gjdba979ggiivoq</sha1>
+    </revision>
+  </page>
+</mediawiki>

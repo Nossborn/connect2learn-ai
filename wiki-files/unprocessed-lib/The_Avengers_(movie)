@@ -1,0 +1,238 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>simplewiki</dbname>
+    <base>https://simple.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.34.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Avengers (movie)</title>
+    <ns>0</ns>
+    <id>343369</id>
+    <revision>
+      <id>6486821</id>
+      <parentid>6355747</parentid>
+      <timestamp>2019-03-30T01:34:00Z</timestamp>
+      <contributor>
+        <username>Sc2353</username>
+        <id>825719</id>
+      </contributor>
+      <comment>fixed page title error</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3694">[[File:Marvel's The Avengers logo.svg|thumb|Marvel's The Avengers logo]]
+{{italictitle}}
+'''''The Avengers''''' is a 2012 [[United States|American]] super[[hero]] [[action movie]]. It is based on [[Marvel Comics]] characters. It is distributed under [[Walt Disney Pictures]]. ''The Avengers'' [[movie release|premiered]] on April 11, 2012. Released in [[North America]] on May 4, 2012. The [[movie]] was [[screenwriter|written]] and [[movie director|directed]] by [[Joss Whedon]]. [[Robert Downey Jr.]], [[Chris Evans (actor)|Chris Evans]], [[Mark Ruffalo]], Bori, [[Chris Hemsworth]], [[Scarlett Johansson]], [[Jeremy Renner]], [[Tom Hiddleston]], and [[Samuel L. Jackson]] star, with [[Stellan Skarsgård]], [[Clark Gregg]], [[Cobie Smulders]], [[Gwyneth Paltrow]], and [[Paul Bettany]] in supporting [[role]]s.
+
+== Release Dates ==
+{|class="wikitable"
+|-
+! Country !! Premiere
+|-
+| {{AUS}} || 25 April 2012
+|-
+| {{BEL}} || 25 April 2012
+|-
+| {{FRA}} || 25 April 2012
+|-
+| {{ITA}} || 25 April 2012
+|-
+| {{NED}} || 25 April 2012
+|-
+| {{NZL}} || 25 April 2012
+|-
+| {{PHI}} || 25 April 2012
+|-
+| {{POR}} || 25 April 2012
+|-
+| {{TWN}} || 25 April 2012
+|-
+| {{ARG}} || 26 April 2012
+|-
+| {{AUT}} || 26 April 2012
+|-
+| {{BOL}} || 26 April 2012
+|-
+| {{CHL}} || 26 April 2012
+|-
+| {{DEU}} || 26 April 2012
+|-
+| {{DNK}} || 26 April 2012
+|-
+| {{DOM}} || 26 April 2012
+|-
+| {{GBR}} || 26 April 2012
+|-
+| {{GRE}} || 26 April 2012
+|-
+| {{HKG}} || 26 April 2012
+|-
+| {{HUN}} || 26 April 2012
+|-
+| {{flagicon|Ireland}} [[Ireland]] || 26 April 2012
+|-
+| {{KOR}} || 26 April 2012
+|-
+| {{MAS}} || 26 April 2012
+|-
+| {{PER}} || 26 April 2012
+|-
+| {{ZAF}} || 26 April 2012
+|-
+| {{BRA}} || 27 April 2012
+|-
+| {{COL}} || 27 April 2012
+|-
+| {{CRI}} || 27 April 2012
+|-
+| {{ECU}} || 27 April 2012
+|-
+| {{ESP}} || 27 April 2012
+|-
+| {{FIN}} || 27 April 2012
+|-
+| {{GUA}} || 27 April 2012
+|-
+| {{IND}} || 27 April 2012
+|-
+| {{ISL}} || 27 April 2012
+|-
+| {{flagicon|Mexico}} [[Mexico]] || 27 April 2012
+|-
+| {{NOR}} || 27 April 2012
+|-
+| {{PAN}} || 27 April 2012
+|-
+| {{PAR}} || 27 April 2012
+|-
+| {{SWE}} || 27 April 2012
+|-
+| {{URU}} || 27 April 2012
+|-
+| {{VEN}} || 27 April 2012
+|-
+| {{VIE}} || 27 April 2012
+|-
+| {{BUL}} || 1 May 2012
+|-
+| {{LVA}} || 1 May 2012
+|-
+| {{SGP}} || 1 May 2012
+|-
+| {{THA}} || 1 May 2012
+|-
+| {{EGY}} || 2 May 2012
+|-
+| {{SRB}} || 2 May 2012
+|-
+| {{UAE}} || 3 May 2012
+|-
+| {{BHR}} || 3 May 2012
+|-
+| {{CZE}} || 3 May 2012
+|-
+| {{HRV}} || 3 May 2012
+|-
+| {{KWT}} || 3 May 2012
+|-
+| {{KAZ}} || 3 May 2012
+|-
+| {{LBN}} || 3 May 2012
+|-
+| {{SRB}} || 3 May 2012
+|-
+| {{RUS}} || 3 May 2012
+|-
+| {{SVN}} || 3 May 2012
+|-
+| {{SVK}} || 3 May 2012
+|-
+| {{UKR}} || 3 May 2012
+|-
+| {{CAN}} || 4 May 2012
+|-
+| {{EST}} || 4 May 2012
+|-
+| {{GHA}} || 4 May 2012
+|-
+| {{IDN}} || 4 May 2012
+|-
+| {{LIT}} || 4 May 2012
+|-
+| {{NGA}} || 4 May 2012
+|-
+| {{ROM}} || 4 May 2012
+|-
+| {{TUR}} || 4 May 2012
+|-
+| {{USA}} || 4 May 2012
+|-
+| {{CHN}} || 5 May 2012
+|-
+| {{ARM}} || 10 May 2012
+|-
+| {{ISR}} || 10 May 2012
+|-
+| {{MKD}} || 11 May 2012
+|-
+| {{PAK}} || 11 May 2012
+|-
+| {{POL}} || 11 May 2012
+|-
+| {{flagicon|Cambodia}} [[Cambodia]] || 17 May 2012
+|-
+| {{GEO}} || 31 May 2012
+|-
+| {{BGD}} || 3 August 2012
+|-
+| {{JPN}} || 14 August 2012
+|}
+
+== Other websites ==
+*{{imdb title|0848228|The Avengers}}
+
+
+{{movie-stub}}
+
+{{DEFAULTSORT:Avengers, The}}
+[[Category:2012 movies]]
+[[Category:2010s action movies]]
+[[Category:Movies based on comic book characters]]
+[[Category:American action movies]]
+[[Category:American science fiction movies]]
+[[Category:Disney movies]]
+[[Category:English-language movies]]
+[[Category:Marvel Cinematic Universe movies]]
+[[Category:Marvel Comics]]
+[[Category:Superhero movies]]</text>
+      <sha1>4qf9upjr5oxnvgff7xip3g6oomoi1gk</sha1>
+    </revision>
+  </page>
+</mediawiki>

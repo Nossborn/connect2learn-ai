@@ -1,0 +1,182 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>simplewiki</dbname>
+    <base>https://simple.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.34.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Zlatan Ibrahimović</title>
+    <ns>0</ns>
+    <id>162613</id>
+    <revision>
+      <id>6437348</id>
+      <parentid>6235545</parentid>
+      <timestamp>2019-02-13T19:01:49Z</timestamp>
+      <contributor>
+        <username>StraussInTheHouse</username>
+        <id>664627</id>
+      </contributor>
+      <comment>Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5603">{{update|date=November 2012}}
+{{Infobox football biography
+| name           = Zlatan Ibrahimović
+| image          = Zlatan Ibrahimović June 2018.jpg
+| image_size     = 200
+| caption        = Ibrahimović in 2018
+| fullname       = Zlatan Ibrahimović&lt;ref name="fifadoc"&gt;{{Cite web|title=FIFA Club World Cup UAE 2009 presented by Toyota: List of Players|url=http://www.fifadata.com/document/fcwc/2009/PDF/FCWC_2009_SquadLists_BAR.pdf|publisher=FIFA|format=PDF|page=1|date=1 December 2009|accessdate=28 March 2014}}&lt;/ref&gt;
+| birth_date     = {{Birth date and age|1981|10|3|df=y}}&lt;ref name="fifadoc" /&gt;
+| birth_place    = [[Malmö]], Sweden
+| height         = {{convert|1.95|m|ftin|abbr=on}}&lt;ref&gt;{{cite web|url=http://www.psg.fr/en/Equipe-Pro/300002/Fiche-joueur/2737/Ibrahimovic-Zlatan|title=Ibrahimovic Zlatan|publisher=Paris Saint-Germain F.C.|accessdate=18 July 2012}}&lt;/ref&gt;
+| position       = [[Forward (association football)|Striker]]
+| currentclub    = [[LA Galaxy]]
+| clubnumber     = 9
+| youthyears1    = 1989–1991 |youthclubs1 = [[FC Rosengård 1917|Malmö BI]]
+| youthyears2    = 1991–1995 |youthclubs2 = [[FBK Balkan]]
+| youthyears3    = 1995–1999 |youthclubs3 = [[Malmö FF]]
+| years1         = 1999–2001 |clubs1  = [[Malmö FF]]                                     |caps1  = 40  |goals1  = 16
+| years2         = 2001–2004 |clubs2  = [[AFC Ajax|Ajax]]                                |caps2  = 74  |goals2  = 35
+| years3         = 2004–2006 |clubs3  = [[Juventus F.C.|Juventus]]                       |caps3  = 70  |goals3  = 23
+| years4         = 2006–2009 |clubs4  = [[Inter Milan]]                                  |caps4  = 88  |goals4  = 57
+| years5         = 2009–2011 |clubs5  = [[FC Barcelona|Barcelona]]                       |caps5  = 29  |goals5  = 16
+| years6         = 2010–2011 |clubs6  = → [[A.C. Milan|Milan]] (loan)                    |caps6  = 29  |goals6  = 14
+| years7         = 2011–2012 |clubs7  = [[A.C. Milan|Milan]]                             |caps7  = 32  |goals7  = 28
+| years8         = 2012–2016 |clubs8  = [[Paris Saint-Germain F.C.|Paris Saint-Germain]] |caps8  = 122 |goals8  = 113
+| years9         = 2016–2018 |clubs9  = [[Manchester United F.C.|Manchester United]]     |caps9  = 33  |goals9  = 17
+| years10        = 2018–     |clubs10 = [[LA Galaxy]]                                    |caps10 = 20  |goals10 = 16
+| nationalyears1 = 1999      |nationalteam1 = [[Sweden national under-18 football team|Sweden U18]]  |nationalcaps1 = 4   |nationalgoals1 = 1
+| nationalyears2 = 2001      |nationalteam2 = [[Sweden national under-21 football team|Sweden U21]]  |nationalcaps2 = 7   |nationalgoals2 = 6
+| nationalyears3 = 2001–2016 |nationalteam3 = [[Sweden national football team|Sweden]]               |nationalcaps3 = 116 |nationalgoals3 = 62
+| club-update = 22:16, 24 August 2018 (UTC)
+}}
+
+'''Zlatan Ibrahimović''' (born 3 October 1981) is a [[Sweden|Swedish]] [[Association football|football]] player. He plays as a [[Striker]] for [[Los Angeles Galaxy]] of the [[MLS]]. 
+
+Ibrahimovic's mother is [[Croats|Croatian]], and his father is [[Bosnia|Bosniak]]. 
+
+== Club career statistics ==
+{{Football player club statistics 1|YNY}}
+{{Football player club statistics 2|SWE|YNY}}
+|-
+|1999||rowspan="3"|[[Malmö F.F.|Malmö FF]]||[[Allsvenskan]]||6||1||0||0||0||0||6||1
+|-
+|2000||[[Superettan]]||26||12||0||0||colspan="2"|-||26||12
+|-
+|2001||[[Allsvenskan]]||8||3||0||0||colspan="2"|-||8||3
+{{Football player club statistics 2|NED|YNY}}
+|-
+|2001/02||rowspan="4"|[[A.F.C. Ajax|Ajax]]||rowspan="4"|[[Eredivisie]]||24||6||3||0||6||2||30||8
+|-
+|2002/03||25||13||3||3||13||5||38||18
+|-
+|2003/04||22||13||1||0||6||2||29||15
+|-
+|2004/05||3||3||0||0||0||0||3||3
+{{Football player club statistics 2|ITA|YNY}}
+|-
+|2004/05||rowspan="2"|[[Juventus F.C.|Juventus]]||rowspan="2"|[[Serie A]]||35||16||0||0||10||0||45||16
+|-
+|2005/06||35||7||2||0||9||3||46||10
+|-
+|2006/07||rowspan="3"|[[F.C. Internazionale Milano|Internazionale Milano]]||rowspan="3"|[[Serie A]]||27||15||1||0||7||0||35||15
+|-
+|2007/08||26||17||0||0||7||5||33||22
+|-
+|2008/09||35||25||3||3||8||1||46||29
+{{Football player club statistics 2|ESP|YNY}}
+|-
+|2009/10||[[F.C. Barcelona|Barcelona]]||[[La Liga]]||29||16||2||1||10||4||41||21
+{{Football player club statistics 2|ITA|YNY}}
+|-
+|2010/11||[[AC Milan]]||[[Serie A]]||28||14||4||3||7||4||39||21
+{{Football player club statistics 3|4|SWE}}40||16||0||0||0||0||40||16
+{{Football player club statistics 4|NED}}74||35||7||3||25||8||106||46
+{{Football player club statistics 4|ESP}}29||16||2||1||10||4||41||21
+{{Football player club statistics 4|ITA}}186||94||10||6||48||13||244||113
+{{Football player club statistics 5}}272||131||13||6||66||17||351||154
+|}
+
+== International career statistics ==
+&lt;ref&gt;{{cite web|url=http://www.national-football-teams.com/player/6367/Zlatan_Ibrahimovic.html|title=Zlatan Ibrahimović|first=Benjamin|last=Strack-Zimmermann|website=www.national-football-teams.com}}&lt;/ref&gt;
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Sweden national football team|Sweden national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|-
+|2001||5||1
+|-
+|2002||10||2
+|-
+|2003||4||3
+|-
+|2004||12||8
+|-
+|2005||5||4
+|-
+|2006||6||0
+|-
+|2007||7||0
+|-
+|2008||7||2
+|-
+|2009||6||2
+|-
+|2010||4||3
+|-
+|2011||11||3
+|-
+|2012||8||11
+|-
+|2013||11||9
+|-
+!Total||96||48
+|}
+
+== References ==
+{{Reflist}}
+
+{{Sweden Squad 2002 World Cup}}
+{{Sweden Squad 2006 World Cup}}
+
+
+{{sports-bio-stub}}
+
+{{DEFAULTSORT:Ibrahimovic, Zlatan}}
+[[Category:1981 births]]
+[[Category:Living people]]
+[[Category:Swedish footballers]]
+[[Category:People from Malmo]]</text>
+      <sha1>od2chnsawf5v11b8oeu5wo9lnlpruax</sha1>
+    </revision>
+  </page>
+</mediawiki>
