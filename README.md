@@ -1,28 +1,28 @@
 # QA Module with Snap!
 
-A simple factoid question-answering application for Snap!(https://snap.berkeley.edu/).
-Developed for Ericsson's Digital Lab AI course.
+A simple factoid question-answering application for [Snap!](https://snap.berkeley.edu/).  
+Developed for Ericsson's [Digital Lab AI course](https://www.ericsson.com/en/blog/2019/4/connect-to-learn-interns-develop-ai-course).
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.6
 - [NumPy](http://www.numpy.org/)
 - [NLTK](https://www.nltk.org/)
 - [Pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-- Speech engine [espeak/pywin32]
-- Google Chrome or Mozilla Firefox
+- Speech engine [[espeak](http://espeak.sourceforge.net/) or [pywin32](https://pypi.org/project/pywin32/)]
+- [Google Chrome](https://www.google.com/chrome/) or [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ## Usage
 
-For Windows:
+Windows:  
 Open _START_Windows.bat
 
-For Linux: 
+Linux: 
 ```bash
 bash _START_Linux.sh
 ```
 
-## Overview of AI algorithm
+## Overview of AI module
 
 This module implements a simple factoid question-answering (QA) system, loosely
 based on [Lin, 2007]. Factoid QA systems attempt to answer factual questions
